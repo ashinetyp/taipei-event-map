@@ -1,0 +1,41 @@
+name: 每日蒐集活動資料
+
+on:
+  schedule:
+    - cron: '0 18 * * *'   # 每天 UTC 18:00 = 台灣時間 02:00
+  workflow_dispatch:         # 允許手動觸發
+
+jobs:
+  collect:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write        # 允許 commit 回 repo
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+          cache: 'npm'
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: 蒐集活動資料
+        run: npx tsx scripts/collect.ts
+        timeout-minutes: 15   # 最多跑 15 分鐘
+
+      - name: Commit 更新的資料
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/events-cache.json
+          if git diff --staged --quiet; then
+            echo "No changes to commit"
+          else
+            git commit -m "chore: 更新活動資料 $(date -u '+%Y-%m-%d')"
+            git push
+          fi
