@@ -3,7 +3,7 @@
 const BASE = 'https://gnn.gamer.com.tw';
 
 // 掃描最新 N 篇文章（GNN 文章以流水號 sn 排列）
-const SCAN_COUNT = 150; // 最近 150 篇
+const SCAN_COUNT = 300; // 最近 300 篇（約 2-3 週）
 const BATCH_SIZE = 3;   // 每批 3 篇，避免 rate limit
 
 // 已知台北地點 → 座標
@@ -103,13 +103,19 @@ async function getLatestSN(): Promise<number> {
   }
 }
 
-async function fetchArticle(sn: number): Promise<GNNEvent | null> {
+async function fetchArticle(sn: number, retries = 2): Promise<GNNEvent | null> {
   try {
     const url = `${BASE}/detail.php?sn=${sn}`;
     const res = await fetch(url, {
       headers: { 'User-Agent': 'Mozilla/5.0', 'Accept-Language': 'zh-TW' },
     });
-    if (res.status === 429) return null; // rate limited，跳過
+    if (res.status === 429) {
+      if (retries > 0) {
+        await new Promise(r => setTimeout(r, 3000));
+        return fetchArticle(sn, retries - 1);
+      }
+      return null;
+    }
     if (!res.ok) return null;
     const html = await res.text();
 
@@ -178,7 +184,7 @@ export async function scrapeGNN(): Promise<GNNEvent[]> {
     for (const e of results) {
       if (e) allEvents.push(e);
     }
-    await new Promise(r => setTimeout(r, 700)); // 每批等 700ms 避免 rate limit
+    await new Promise(r => setTimeout(r, 900)); // 每批等 900ms 避免 rate limit
   }
 
   return allEvents;
