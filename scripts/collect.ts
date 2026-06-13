@@ -44,11 +44,17 @@ function extractDistrict(address: string): string {
 
 async function fetchCultureCategory(category: string) {
   try {
-    const res = await fetch(`${CULTURE_API}&category=${category}&areaCode=01&page=1`);
-    if (!res.ok) return [];
+    const res = await fetch(`${CULTURE_API}&category=${category}&areaCode=01&page=1`, {
+      headers: { 'User-Agent': 'Mozilla/5.0 (compatible; TaipeiEventBot/1.0)', 'Accept': 'application/json' },
+    });
+    if (!res.ok) {
+      console.log(`  culture.tw category=${category} status=${res.status}`);
+      return [];
+    }
     const data = await res.json();
     return Array.isArray(data) ? data : [];
-  } catch {
+  } catch (e) {
+    console.log(`  culture.tw category=${category} error: ${e}`);
     return [];
   }
 }
