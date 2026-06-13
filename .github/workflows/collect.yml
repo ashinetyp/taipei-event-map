@@ -37,5 +37,5 @@ jobs:
             echo "No changes to commit"
           else
             git commit -m "chore: update events cache $(date -u '+%Y-%m-%d')"
-            git push
+            git pull --rebase origin main && git push origin main
           fi
