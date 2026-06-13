@@ -4,8 +4,7 @@ import path from 'path';
 
 // 從 data/events-cache.json 讀取（由 GitHub Actions 每日更新）
 // 開發時若 cache 不存在則回傳空陣列（需先執行 npx tsx scripts/collect.ts）
-export const dynamic = 'force-static';
-export const revalidate = 3600; // 1小時 CDN cache
+export const dynamic = 'force-dynamic';
 
 export async function GET() {
   try {
