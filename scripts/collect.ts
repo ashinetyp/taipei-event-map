@@ -115,8 +115,20 @@ async function collectCulture() {
 async function main() {
   console.log(`\n🗓  開始蒐集 ${new Date().toLocaleString('zh-TW')}\n`);
 
-  // 依序蒐集（避免 rate limit）
+  // 讀取上次的 culture.tw 快取（若 API 無法從海外存取時保留舊資料）
+  let previousCultureEvents: typeof import('../data/events-cache.json')['events'] = [];
+  try {
+    if (fs.existsSync(OUTPUT_FILE)) {
+      const prev = JSON.parse(fs.readFileSync(OUTPUT_FILE, 'utf-8'));
+      previousCultureEvents = (prev.events || []).filter((e: { source: string }) => e.source === 'culture.tw');
+      if (previousCultureEvents.length > 0) {
+        console.log(`📦 保留上次 culture.tw 快取：${previousCultureEvents.length} 筆`);
+      }
+    }
+  } catch {}
+
   const cultureEvents = await collectCulture();
+  const finalCultureEvents = cultureEvents.length > 0 ? cultureEvents : previousCultureEvents;
 
   console.log('📡 蒐集 GNN 巴哈姆特...');
   const gnnEvents = await scrapeGNN();
@@ -129,7 +141,7 @@ async function main() {
   // 合併去重
   const seen = new Set<string>();
   const all = [];
-  for (const e of [...cultureEvents, ...gnnEvents, ...accupassEvents]) {
+  for (const e of [...finalCultureEvents, ...gnnEvents, ...accupassEvents]) {
     const key = `${e.title}|${e.startDate}`;
     if (!seen.has(key)) {
       seen.add(key);
@@ -141,7 +153,7 @@ async function main() {
     events: all,
     total: all.length,
     sources: {
-      culture: cultureEvents.length,
+      culture: finalCultureEvents.length,
       gnn: gnnEvents.length,
       accupass: accupassEvents.length,
     },
@@ -153,7 +165,7 @@ async function main() {
   fs.writeFileSync(OUTPUT_FILE, JSON.stringify(output, null, 2), 'utf-8');
 
   console.log(`\n✅ 完成！共 ${all.length} 筆活動`);
-  console.log(`   culture.tw: ${cultureEvents.length}`);
+  console.log(`   culture.tw: ${finalCultureEvents.length}${cultureEvents.length === 0 ? ' (快取)' : ''}`);
   console.log(`   GNN:        ${gnnEvents.length}`);
   console.log(`   Accupass:   ${accupassEvents.length}`);
   console.log(`   輸出至: ${OUTPUT_FILE}\n`);
