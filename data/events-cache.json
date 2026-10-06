@@ -514,22 +514,6 @@
     },
     {
       "id": "culture-32",
-      "title": "《花漾50》台北室內50混聲合唱團十五周年音樂會",
-      "category": "演出",
-      "district": "中正區",
-      "location": "臺北市中山堂中正廳",
-      "address": "臺北市中正區延平南路98號",
-      "lat": 25.0425041,
-      "lng": 121.5103541,
-      "startDate": "2026-10-06",
-      "endDate": "2026-10-06",
-      "description": "",
-      "fee": "付費",
-      "url": "",
-      "source": "culture.tw"
-    },
-    {
-      "id": "culture-33",
       "title": "2026《蘭心揚韵》台北室內女聲合唱團 4 專場音樂會",
       "category": "演出",
       "district": "南港區",
@@ -545,7 +529,7 @@
       "source": "culture.tw"
     },
     {
-      "id": "culture-34",
+      "id": "culture-33",
       "title": "四十週年系列《簡文彬 、薇薇安．哈格納與NSO》",
       "category": "演出",
       "district": "中正區",
@@ -561,7 +545,7 @@
       "source": "culture.tw"
     },
     {
-      "id": "culture-35",
+      "id": "culture-34",
       "title": "勇源音樂饗宴：四十週年系列《馬勒第八，千人》",
       "category": "演出",
       "district": "中正區",
@@ -577,7 +561,7 @@
       "source": "culture.tw"
     },
     {
-      "id": "culture-36",
+      "id": "culture-35",
       "title": "《光影與詩》馬利歐．凡薩戈、帕斯卡．羅傑與NSO",
       "category": "演出",
       "district": "中正區",
@@ -593,7 +577,7 @@
       "source": "culture.tw"
     },
     {
-      "id": "culture-37",
+      "id": "culture-36",
       "title": "《溯音．續章》許常惠逝世二十五週年紀念音樂會",
       "category": "演出",
       "district": "中正區",
@@ -609,7 +593,7 @@
       "source": "culture.tw"
     },
     {
-      "id": "culture-38",
+      "id": "culture-37",
       "title": "富邦世紀音樂盛宴：NSO歲末饗宴《法蘭西群星》",
       "category": "演出",
       "district": "中正區",
@@ -625,7 +609,7 @@
       "source": "culture.tw"
     },
     {
-      "id": "culture-39",
+      "id": "culture-38",
       "title": "NSO《馬勒第九》",
       "category": "演出",
       "district": "中正區",
@@ -641,7 +625,7 @@
       "source": "culture.tw"
     },
     {
-      "id": "culture-40",
+      "id": "culture-39",
       "title": "《匠心之巔》準．馬寇爾、斯蒂凡．賈基夫與NSO",
       "category": "演出",
       "district": "中正區",
@@ -657,7 +641,7 @@
       "source": "culture.tw"
     },
     {
-      "id": "culture-41",
+      "id": "culture-40",
       "title": "《一千零一夜》博雷科、諏訪內晶子與NSO",
       "category": "演出",
       "district": "中正區",
@@ -673,7 +657,7 @@
       "source": "culture.tw"
     },
     {
-      "id": "culture-42",
+      "id": "culture-41",
       "title": "NSO黃俊文與好朋友們《舞韻世代》",
       "category": "演出",
       "district": "中正區",
@@ -689,7 +673,7 @@
       "source": "culture.tw"
     },
     {
-      "id": "culture-43",
+      "id": "culture-42",
       "title": "NSO室內樂《舞動波希米亞》",
       "category": "演出",
       "district": "中正區",
@@ -705,7 +689,7 @@
       "source": "culture.tw"
     },
     {
-      "id": "culture-44",
+      "id": "culture-43",
       "title": "NSO ✕ 麗寶彩雲室內樂系列 I《絃上行雲──聲音的形狀》",
       "category": "演出",
       "district": "中正區",
@@ -721,7 +705,7 @@
       "source": "culture.tw"
     },
     {
-      "id": "culture-45",
+      "id": "culture-44",
       "title": "NSO室內樂《與風共舞》",
       "category": "演出",
       "district": "中正區",
@@ -737,7 +721,7 @@
       "source": "culture.tw"
     },
     {
-      "id": "culture-46",
+      "id": "culture-45",
       "title": "NSO室內樂《舞動．新世紀》",
       "category": "演出",
       "district": "中正區",
@@ -753,7 +737,7 @@
       "source": "culture.tw"
     },
     {
-      "id": "culture-47",
+      "id": "culture-46",
       "title": "NSO ✕ 麗寶彩雲室內樂系列 II《樂響四十．交織的歲月》",
       "category": "演出",
       "district": "中正區",
@@ -769,7 +753,7 @@
       "source": "culture.tw"
     },
     {
-      "id": "culture-48",
+      "id": "culture-47",
       "title": "富邦世紀音樂盛宴：NSO歲末饗宴《璀璨維也納》",
       "category": "演出",
       "district": "中正區",
@@ -785,7 +769,7 @@
       "source": "culture.tw"
     },
     {
-      "id": "culture-49",
+      "id": "culture-48",
       "title": "NSO黃俊文與好朋友們《傳承．蕭斯塔科維契透視》",
       "category": "演出",
       "district": "中正區",
@@ -801,7 +785,7 @@
       "source": "culture.tw"
     },
     {
-      "id": "culture-50",
+      "id": "culture-49",
       "title": "NSO黃俊文與好朋友們《浪漫迴廊》",
       "category": "演出",
       "district": "中正區",
@@ -817,7 +801,7 @@
       "source": "culture.tw"
     },
     {
-      "id": "culture-51",
+      "id": "culture-50",
       "title": "大塊文章－張昊辰2026鋼琴獨奏會",
       "category": "演出",
       "district": "中正區",
@@ -833,7 +817,7 @@
       "source": "culture.tw"
     },
     {
-      "id": "culture-52",
+      "id": "culture-51",
       "title": "英雄傳 武聖關公",
       "category": "演出",
       "district": "中正區",
@@ -849,7 +833,7 @@
       "source": "culture.tw"
     },
     {
-      "id": "culture-53",
+      "id": "culture-52",
       "title": "台北陶笛樂團20週年紀念音樂會",
       "category": "演出",
       "district": "中正區",
@@ -865,7 +849,7 @@
       "source": "culture.tw"
     },
     {
-      "id": "culture-54",
+      "id": "culture-53",
       "title": "桑梓之歌",
       "category": "演出",
       "district": "中正區",
@@ -881,7 +865,7 @@
       "source": "culture.tw"
     },
     {
-      "id": "culture-55",
+      "id": "culture-54",
       "title": "《豐琴樂揚》在琴弦與信念之間-蘇揚哲的小提琴之路",
       "category": "演出",
       "district": "信義區",
@@ -897,7 +881,7 @@
       "source": "culture.tw"
     },
     {
-      "id": "culture-56",
+      "id": "culture-55",
       "title": "琴弦上的六重風景—《從英倫漫步走向安達盧西亞》",
       "category": "演出",
       "district": "中正區",
@@ -913,7 +897,7 @@
       "source": "culture.tw"
     },
     {
-      "id": "culture-57",
+      "id": "culture-56",
       "title": "日本Twinkle古典吉他五重奏音樂會",
       "category": "演出",
       "district": "中正區",
@@ -929,7 +913,7 @@
       "source": "culture.tw"
     },
     {
-      "id": "culture-58",
+      "id": "culture-57",
       "title": "2026臺北爵士大樂隊《感爵臺灣》美國紐奧良巡演行前音樂會",
       "category": "演出",
       "district": "中正區",
@@ -945,7 +929,7 @@
       "source": "culture.tw"
     },
     {
-      "id": "culture-59",
+      "id": "culture-58",
       "title": "力晶2026藝文饗宴-阿格麗希音樂節在台灣-台北場",
       "category": "演出",
       "district": "中正區",
@@ -961,7 +945,7 @@
       "source": "culture.tw"
     },
     {
-      "id": "culture-60",
+      "id": "culture-59",
       "title": "【ESO 大師精選】曠野之光－梵志登與ESO",
       "category": "演出",
       "district": "中正區",
@@ -977,7 +961,7 @@
       "source": "culture.tw"
     },
     {
-      "id": "culture-61",
+      "id": "culture-60",
       "title": "2026秋天藝術節 巴奈《流浪邊界》",
       "category": "演出",
       "district": "中正區",
@@ -993,7 +977,7 @@
       "source": "culture.tw"
     },
     {
-      "id": "culture-62",
+      "id": "culture-61",
       "title": "2026尹昭永X閑弦室內樂集",
       "category": "演出",
       "district": "中正區",
@@ -1009,7 +993,7 @@
       "source": "culture.tw"
     },
     {
-      "id": "culture-63",
+      "id": "culture-62",
       "title": "《時間的彩筆》逢友室內合唱團2026年度音樂會",
       "category": "演出",
       "district": "中正區",
@@ -1025,7 +1009,7 @@
       "source": "culture.tw"
     },
     {
-      "id": "culture-64",
+      "id": "culture-63",
       "title": "NTSO水藍，庄司紗矢香與國臺交",
       "category": "演出",
       "district": "中正區",
@@ -1041,7 +1025,7 @@
       "source": "culture.tw"
     },
     {
-      "id": "culture-65",
+      "id": "culture-64",
       "title": "NTSO貝多芬鋼琴協奏曲全集II—水藍，白建宇與國臺交",
       "category": "演出",
       "district": "中正區",
@@ -1057,7 +1041,7 @@
       "source": "culture.tw"
     },
     {
-      "id": "culture-66",
+      "id": "culture-65",
       "title": "NTSO簡文彬，樫本大進與國臺交",
       "category": "演出",
       "district": "中正區",
@@ -1073,7 +1057,7 @@
       "source": "culture.tw"
     },
     {
-      "id": "culture-67",
+      "id": "culture-66",
       "title": "戰火中的靈魂—李昀陽鋼琴獨奏會",
       "category": "演出",
       "district": "中正區",
@@ -1089,7 +1073,7 @@
       "source": "culture.tw"
     },
     {
-      "id": "culture-68",
+      "id": "culture-67",
       "title": "【2026 TSO 特別企劃】國王歌手與TSO的聖誕音樂會",
       "category": "演出",
       "district": "中正區",
@@ -1105,7 +1089,7 @@
       "source": "culture.tw"
     },
     {
-      "id": "culture-69",
+      "id": "culture-68",
       "title": "2026 TINMF《縱橫之聲》室內樂場",
       "category": "演出",
       "district": "中正區",
@@ -1121,23 +1105,7 @@
       "source": "culture.tw"
     },
     {
-      "id": "culture-70",
-      "title": "手風琴家蔡偉靖、王學與台灣絃樂團《極致拉風摺學》",
-      "category": "演出",
-      "district": "中正區",
-      "location": "國家音樂廳",
-      "address": "臺北市中正區中山南路21-1號，信義路側",
-      "lat": 25.0367564,
-      "lng": 121.519047,
-      "startDate": "2026-10-06",
-      "endDate": "2026-10-06",
-      "description": "",
-      "fee": "付費",
-      "url": "",
-      "source": "culture.tw"
-    },
-    {
-      "id": "culture-71",
+      "id": "culture-69",
       "title": "『孟德爾頌之間』～創樂者藝術管弦樂與合唱篇",
       "category": "演出",
       "district": "中正區",
@@ -1153,7 +1121,7 @@
       "source": "culture.tw"
     },
     {
-      "id": "culture-72",
+      "id": "culture-70",
       "title": "浮生詩境－謝維庭2026鋼琴獨奏會",
       "category": "演出",
       "district": "中正區",
@@ -1169,7 +1137,7 @@
       "source": "culture.tw"
     },
     {
-      "id": "culture-73",
+      "id": "culture-71",
       "title": "《第三章 莫札特》公益音樂會",
       "category": "演出",
       "district": "大同區",
@@ -1185,7 +1153,7 @@
       "source": "culture.tw"
     },
     {
-      "id": "culture-74",
+      "id": "culture-72",
       "title": "小巨人絲竹樂團-青年演奏家系列【綻放XIX】",
       "category": "演出",
       "district": "中正區",
@@ -1201,7 +1169,7 @@
       "source": "culture.tw"
     },
     {
-      "id": "culture-75",
+      "id": "culture-73",
       "title": "Fabian Johannes Egger｜神戶首獎巡迴 台灣場",
       "category": "演出",
       "district": "中正區",
@@ -1217,7 +1185,7 @@
       "source": "culture.tw"
     },
     {
-      "id": "culture-76",
+      "id": "culture-74",
       "title": "梁祝．喬家大院—李昊冉 X 沈妤霖 X TCO情緣",
       "category": "演出",
       "district": "中正區",
@@ -1233,7 +1201,7 @@
       "source": "culture.tw"
     },
     {
-      "id": "culture-77",
+      "id": "culture-75",
       "title": "【TCO】聽．繁星點點 Ⅵ－臺灣國樂青年音樂家繁星計畫",
       "category": "演出",
       "district": "中正區",
@@ -1249,7 +1217,7 @@
       "source": "culture.tw"
     },
     {
-      "id": "culture-78",
+      "id": "culture-76",
       "title": "【TCO】音緣－吳大江作品音樂會",
       "category": "演出",
       "district": "中正區",
@@ -1265,7 +1233,7 @@
       "source": "culture.tw"
     },
     {
-      "id": "culture-79",
+      "id": "culture-77",
       "title": "樂韻飛揚—郭勇德 & TCO",
       "category": "演出",
       "district": "中正區",
@@ -1281,7 +1249,7 @@
       "source": "culture.tw"
     },
     {
-      "id": "culture-80",
+      "id": "culture-78",
       "title": "無界．旅人Ⅵ —莊東杰 & TCO",
       "category": "演出",
       "district": "中正區",
@@ -1297,7 +1265,7 @@
       "source": "culture.tw"
     },
     {
-      "id": "culture-81",
+      "id": "culture-79",
       "title": "逝去的時光—陸軼文 X 于源春 X TCO",
       "category": "演出",
       "district": "中正區",
@@ -1313,7 +1281,7 @@
       "source": "culture.tw"
     },
     {
-      "id": "culture-82",
+      "id": "culture-80",
       "title": "2026台灣國際重唱藝術節-台灣盃現代阿卡貝拉大賽",
       "category": "演出",
       "district": "中正區",
@@ -1329,7 +1297,7 @@
       "source": "culture.tw"
     },
     {
-      "id": "culture-83",
+      "id": "culture-81",
       "title": "以你為語—湯詩渝與薩繆爾．尼德豪瑟鋼琴與大提琴二重奏音樂會",
       "category": "演出",
       "district": "中正區",
@@ -1345,7 +1313,7 @@
       "source": "culture.tw"
     },
     {
-      "id": "culture-84",
+      "id": "culture-82",
       "title": "《弦語・心聲》張群2026小提琴獨奏會",
       "category": "演出",
       "district": "中正區",
@@ -1361,7 +1329,7 @@
       "source": "culture.tw"
     },
     {
-      "id": "culture-85",
+      "id": "culture-83",
       "title": "國際大師系列《Zoltán Pad與台北室內合唱團——匈牙利當代人聲之夜》",
       "category": "演出",
       "district": "中正區",
@@ -1377,7 +1345,7 @@
       "source": "culture.tw"
     },
     {
-      "id": "culture-86",
+      "id": "culture-84",
       "title": "張雅淳×李婉菁《唸歌去天庭：老仙婆的跨界音樂會》",
       "category": "演出",
       "district": "中正區",
@@ -1393,7 +1361,7 @@
       "source": "culture.tw"
     },
     {
-      "id": "culture-87",
+      "id": "culture-85",
       "title": "2026台灣國際重唱藝術節-樂齡新生代音樂會",
       "category": "演出",
       "district": "中正區",
@@ -1409,7 +1377,7 @@
       "source": "culture.tw"
     },
     {
-      "id": "culture-88",
+      "id": "culture-86",
       "title": "2026台灣國際重唱藝術節-Gala Concert遇見國際人聲樂團",
       "category": "演出",
       "district": "中正區",
@@ -1425,7 +1393,7 @@
       "source": "culture.tw"
     },
     {
-      "id": "culture-89",
+      "id": "culture-87",
       "title": "紅樓之聲．悅爾風雅",
       "category": "演出",
       "district": "中正區",
@@ -1441,7 +1409,7 @@
       "source": "culture.tw"
     },
     {
-      "id": "culture-90",
+      "id": "culture-88",
       "title": "《玩弦四度》爵士弦樂四重奏",
       "category": "演出",
       "district": "大安區",
@@ -1457,7 +1425,7 @@
       "source": "culture.tw"
     },
     {
-      "id": "culture-91",
+      "id": "culture-89",
       "title": "聲華室內樂集《微光之後》",
       "category": "演出",
       "district": "中正區",
@@ -1473,7 +1441,7 @@
       "source": "culture.tw"
     },
     {
-      "id": "culture-92",
+      "id": "culture-90",
       "title": "黃英樺鋼琴獨奏會  獻給一路相伴的人",
       "category": "演出",
       "district": "大同區",
@@ -1489,7 +1457,7 @@
       "source": "culture.tw"
     },
     {
-      "id": "culture-93",
+      "id": "culture-91",
       "title": "鋼琴合作藝術聲樂篇系列音樂會（三）",
       "category": "演出",
       "district": "中正區",
@@ -1505,7 +1473,7 @@
       "source": "culture.tw"
     },
     {
-      "id": "culture-94",
+      "id": "culture-92",
       "title": "END POLIO 慈善音樂會共善音樂會—生命感動生命",
       "category": "演出",
       "district": "中正區",
@@ -1521,7 +1489,7 @@
       "source": "culture.tw"
     },
     {
-      "id": "culture-95",
+      "id": "culture-93",
       "title": "北一女中校友交響管樂團25週年音樂會－德奧風華 Ⅲ",
       "category": "演出",
       "district": "中正區",
@@ -1537,7 +1505,7 @@
       "source": "culture.tw"
     },
     {
-      "id": "culture-96",
+      "id": "culture-94",
       "title": "《現打．擊音III―擊響神話》",
       "category": "演出",
       "district": "北投區",
@@ -1553,7 +1521,7 @@
       "source": "culture.tw"
     },
     {
-      "id": "culture-97",
+      "id": "culture-95",
       "title": "陳必先2026鋼琴獨奏會─紀念曹永坤先生逝世20周年",
       "category": "演出",
       "district": "中正區",
@@ -1569,7 +1537,7 @@
       "source": "culture.tw"
     },
     {
-      "id": "culture-98",
+      "id": "culture-96",
       "title": "歌頌。頌歌－幕聲合唱團20週年音樂會",
       "category": "演出",
       "district": "中正區",
@@ -1585,7 +1553,7 @@
       "source": "culture.tw"
     },
     {
-      "id": "culture-99",
+      "id": "culture-97",
       "title": "《鄧泰山鋼琴獨奏會》",
       "category": "演出",
       "district": "中正區",
@@ -1601,7 +1569,7 @@
       "source": "culture.tw"
     },
     {
-      "id": "culture-100",
+      "id": "culture-98",
       "title": "凡爾賽詩神山之巔",
       "category": "演出",
       "district": "中正區",
@@ -1617,7 +1585,7 @@
       "source": "culture.tw"
     },
     {
-      "id": "culture-101",
+      "id": "culture-99",
       "title": "維奧爾琴的巴赫宇宙",
       "category": "演出",
       "district": "中正區",
@@ -1633,7 +1601,7 @@
       "source": "culture.tw"
     },
     {
-      "id": "culture-102",
+      "id": "culture-100",
       "title": "《成為光影，或成為光》——當鋼琴合作拒絕陪襯",
       "category": "演出",
       "district": "信義區",
@@ -1649,8 +1617,8 @@
       "source": "culture.tw"
     },
     {
-      "id": "culture-103",
-      "title": "《憶・響—時間給的答案》陳妍蓉大提琴獨奏會",
+      "id": "culture-101",
+      "title": "《憶・響—時間給的答案》音樂會",
       "category": "演出",
       "district": "中正區",
       "location": "國家兩廳院演奏廳",
@@ -1665,7 +1633,7 @@
       "source": "culture.tw"
     },
     {
-      "id": "culture-104",
+      "id": "culture-102",
       "title": "臺灣國樂團《出大甲城》繪本劇場音樂會",
       "category": "演出",
       "district": "士林區",
@@ -1681,7 +1649,7 @@
       "source": "culture.tw"
     },
     {
-      "id": "culture-105",
+      "id": "culture-103",
       "title": "《聽見那個年代》張林峯2026音樂會",
       "category": "演出",
       "district": "信義區",
@@ -1697,7 +1665,7 @@
       "source": "culture.tw"
     },
     {
-      "id": "culture-106",
+      "id": "culture-104",
       "title": "國樂尋音－TCO市民國樂團音樂會",
       "category": "演出",
       "district": "中正區",
@@ -1713,7 +1681,7 @@
       "source": "culture.tw"
     },
     {
-      "id": "culture-107",
+      "id": "culture-105",
       "title": "未來的希望－TCO青年國樂團音樂會",
       "category": "演出",
       "district": "中正區",
@@ -1729,7 +1697,7 @@
       "source": "culture.tw"
     },
     {
-      "id": "culture-108",
+      "id": "culture-106",
       "title": "跨越赤道的天籟－TCO合唱團音樂會",
       "category": "演出",
       "district": "中正區",
@@ -1745,7 +1713,7 @@
       "source": "culture.tw"
     },
     {
-      "id": "culture-109",
+      "id": "culture-107",
       "title": "誰是英雄－TCO教師國樂團音樂會",
       "category": "演出",
       "district": "中正區",
@@ -1761,7 +1729,7 @@
       "source": "culture.tw"
     },
     {
-      "id": "culture-110",
+      "id": "culture-108",
       "title": "青少好聲音Ⅺ－TCO青少年國樂團音樂會",
       "category": "演出",
       "district": "中正區",
@@ -1777,7 +1745,7 @@
       "source": "culture.tw"
     },
     {
-      "id": "culture-111",
+      "id": "culture-109",
       "title": "少年國樂魔法師XV — TCO少年國樂團音樂會",
       "category": "演出",
       "district": "中正區",
@@ -1793,7 +1761,7 @@
       "source": "culture.tw"
     },
     {
-      "id": "culture-112",
+      "id": "culture-110",
       "title": "風中三語",
       "category": "演出",
       "district": "中正區",
@@ -1809,7 +1777,7 @@
       "source": "culture.tw"
     },
     {
-      "id": "culture-113",
+      "id": "culture-111",
       "title": "朱志祥鋼琴獨奏會《如聲所見As Heard, As Seen》",
       "category": "演出",
       "district": "中正區",
@@ -1825,7 +1793,7 @@
       "source": "culture.tw"
     },
     {
-      "id": "culture-114",
+      "id": "culture-112",
       "title": "法蘭西之聲",
       "category": "演出",
       "district": "中正區",
@@ -1841,7 +1809,7 @@
       "source": "culture.tw"
     },
     {
-      "id": "culture-115",
+      "id": "culture-113",
       "title": "漫步在寧靜森林—王薇胡琴獨奏會",
       "category": "演出",
       "district": "大安區",
@@ -1857,23 +1825,7 @@
       "source": "culture.tw"
     },
     {
-      "id": "culture-116",
-      "title": "《光之光亮》2026年拉縴人藝象女聲合唱團年度音樂會",
-      "category": "演出",
-      "district": "南港區",
-      "location": "台北生技園區多功能廳",
-      "address": "臺北市南港區忠孝東路七段508號",
-      "lat": 25.052286,
-      "lng": 121.6103092,
-      "startDate": "2026-10-06",
-      "endDate": "2026-10-06",
-      "description": "",
-      "fee": "付費",
-      "url": "",
-      "source": "culture.tw"
-    },
-    {
-      "id": "culture-117",
+      "id": "culture-114",
       "title": "WJSO新年音樂會",
       "category": "演出",
       "district": "中正區",
@@ -1889,7 +1841,7 @@
       "source": "culture.tw"
     },
     {
-      "id": "culture-118",
+      "id": "culture-115",
       "title": "《北藝之聲・薪傳流響》─跨時空的當代音樂對話",
       "category": "演出",
       "district": "士林區",
@@ -1905,7 +1857,7 @@
       "source": "culture.tw"
     },
     {
-      "id": "culture-119",
+      "id": "culture-116",
       "title": "國立嘉義大學音樂系交響樂團《變奏與傳承》—從主題到蛻變",
       "category": "演出",
       "district": "士林區",
@@ -1921,7 +1873,7 @@
       "source": "culture.tw"
     },
     {
-      "id": "culture-120",
+      "id": "culture-117",
       "title": "《跨世代之音》—傳承．協奏．初響",
       "category": "演出",
       "district": "士林區",
@@ -1937,7 +1889,7 @@
       "source": "culture.tw"
     },
     {
-      "id": "culture-121",
+      "id": "culture-118",
       "title": "《聲音系譜》-法系聲響美學在臺灣的傳承與轉化",
       "category": "演出",
       "district": "士林區",
@@ -1953,7 +1905,7 @@
       "source": "culture.tw"
     },
     {
-      "id": "culture-122",
+      "id": "culture-119",
       "title": "弦上的微光—張明雄二胡音樂會",
       "category": "演出",
       "district": "中正區",
@@ -1969,7 +1921,7 @@
       "source": "culture.tw"
     },
     {
-      "id": "culture-123",
+      "id": "culture-120",
       "title": "國立臺北藝術大學傳統音樂學系《聲音登出》—傳統音樂教育的社會延伸與當代實踐",
       "category": "演出",
       "district": "士林區",
@@ -1985,7 +1937,7 @@
       "source": "culture.tw"
     },
     {
-      "id": "culture-124",
+      "id": "culture-121",
       "title": "迎曦女聲2026年度音樂會《Unsung｜未完待續》",
       "category": "演出",
       "district": "中正區",
@@ -2001,7 +1953,7 @@
       "source": "culture.tw"
     },
     {
-      "id": "culture-125",
+      "id": "culture-122",
       "title": "《夔鼓銄》— 謝從馨打擊獨奏會",
       "category": "演出",
       "district": "中正區",
@@ -2017,7 +1969,7 @@
       "source": "culture.tw"
     },
     {
-      "id": "culture-126",
+      "id": "culture-123",
       "title": "《轉體》－ Shane Shanahan與Yathi Ensemble世界擊樂團",
       "category": "演出",
       "district": "信義區",
@@ -2033,7 +1985,7 @@
       "source": "culture.tw"
     },
     {
-      "id": "culture-127",
+      "id": "culture-124",
       "title": "八福韶韻美聲2026中文藝術歌謠公益慈善演唱會~兼為全民健康平甩而唱",
       "category": "演出",
       "district": "文山區",
@@ -2049,7 +2001,7 @@
       "source": "culture.tw"
     },
     {
-      "id": "culture-128",
+      "id": "culture-125",
       "title": "力晶世紀美聲系列 次女高音喬伊斯・狄杜娜朵冬日音樂會",
       "category": "演出",
       "district": "中正區",
@@ -2065,7 +2017,7 @@
       "source": "culture.tw"
     },
     {
-      "id": "culture-129",
+      "id": "culture-126",
       "title": "臺灣國樂團《情繫NCO》",
       "category": "演出",
       "district": "士林區",
@@ -2081,7 +2033,7 @@
       "source": "culture.tw"
     },
     {
-      "id": "culture-130",
+      "id": "culture-127",
       "title": "福爾摩沙合唱團2026系列音樂會之三： 來自挪威的合唱大師",
       "category": "演出",
       "district": "中正區",
@@ -2097,7 +2049,7 @@
       "source": "culture.tw"
     },
     {
-      "id": "culture-131",
+      "id": "culture-128",
       "title": "郭靖沐箏獨奏會《念》",
       "category": "演出",
       "district": "中正區",
@@ -2113,7 +2065,7 @@
       "source": "culture.tw"
     },
     {
-      "id": "culture-132",
+      "id": "culture-129",
       "title": "《五行說：木》2026年拉縴人青年合唱團年度音樂會",
       "category": "演出",
       "district": "中正區",
@@ -2129,7 +2081,7 @@
       "source": "culture.tw"
     },
     {
-      "id": "culture-133",
+      "id": "culture-130",
       "title": "8%ice 秋日微光",
       "category": "演出",
       "district": "信義區",
@@ -2145,7 +2097,7 @@
       "source": "culture.tw"
     },
     {
-      "id": "culture-134",
+      "id": "culture-131",
       "title": "【如此愛你】雅歌樂集年度音樂會",
       "category": "演出",
       "district": "南港區",
@@ -2161,7 +2113,7 @@
       "source": "culture.tw"
     },
     {
-      "id": "culture-135",
+      "id": "culture-132",
       "title": "NSO《我們的青春時光》時光有聲，青春有你",
       "category": "演出",
       "district": "中正區",
@@ -2177,7 +2129,7 @@
       "source": "culture.tw"
     },
     {
-      "id": "culture-136",
+      "id": "culture-133",
       "title": "INTO THE WILD 探索從音樂開始",
       "category": "演出",
       "district": "南港區",
@@ -2193,7 +2145,7 @@
       "source": "culture.tw"
     },
     {
-      "id": "culture-137",
+      "id": "culture-134",
       "title": "陳惠湄2026長笛獨奏會－長笛與吉他篇",
       "category": "演出",
       "district": "中正區",
@@ -2209,7 +2161,7 @@
       "source": "culture.tw"
     },
     {
-      "id": "culture-138",
+      "id": "culture-135",
       "title": "Octacelli大提琴重奏電影配樂音樂會",
       "category": "演出",
       "district": "中正區",
@@ -2225,7 +2177,7 @@
       "source": "culture.tw"
     },
     {
-      "id": "culture-139",
+      "id": "culture-136",
       "title": "G大調男聲合唱團音樂會－漂亮大歌廳",
       "category": "演出",
       "district": "南港區",
@@ -2241,7 +2193,7 @@
       "source": "culture.tw"
     },
     {
-      "id": "culture-140",
+      "id": "culture-137",
       "title": "《天織星光》 詩詞美學音樂會",
       "category": "演出",
       "district": "中正區",
@@ -2257,7 +2209,7 @@
       "source": "culture.tw"
     },
     {
-      "id": "culture-141",
+      "id": "culture-138",
       "title": "2026黃冠蓁中提琴獨奏會",
       "category": "演出",
       "district": "中正區",
@@ -2273,7 +2225,7 @@
       "source": "culture.tw"
     },
     {
-      "id": "culture-142",
+      "id": "culture-139",
       "title": "《大河劇神曲再現》",
       "category": "演出",
       "district": "南港區",
@@ -2289,7 +2241,7 @@
       "source": "culture.tw"
     },
     {
-      "id": "culture-143",
+      "id": "culture-140",
       "title": "笛韻萬象-2026吹笛人室內樂團秋季音樂會",
       "category": "演出",
       "district": "中正區",
@@ -2305,7 +2257,7 @@
       "source": "culture.tw"
     },
     {
-      "id": "culture-144",
+      "id": "culture-141",
       "title": "《異境・歸途》黃詠雩小提琴獨奏會",
       "category": "演出",
       "district": "中正區",
@@ -2321,7 +2273,7 @@
       "source": "culture.tw"
     },
     {
-      "id": "culture-145",
+      "id": "culture-142",
       "title": "洪伯定克《糖果屋》—台北愛樂歌劇坊",
       "category": "演出",
       "district": "中正區",
@@ -2337,23 +2289,7 @@
       "source": "culture.tw"
     },
     {
-      "id": "culture-146",
-      "title": "新星飆樂 No.38",
-      "category": "演出",
-      "district": "中正區",
-      "location": "國家兩廳院演奏廳",
-      "address": "臺北市中正區中山南路21-1號",
-      "lat": 25.0367564,
-      "lng": 121.519047,
-      "startDate": "2026-10-06",
-      "endDate": "2026-10-06",
-      "description": "",
-      "fee": "付費",
-      "url": "",
-      "source": "culture.tw"
-    },
-    {
-      "id": "culture-147",
+      "id": "culture-143",
       "title": "樂無界《貝多芬之夜─呂紹嘉與北藝大管絃樂團》",
       "category": "演出",
       "district": "北投區",
@@ -2369,7 +2305,7 @@
       "source": "culture.tw"
     },
     {
-      "id": "culture-148",
+      "id": "culture-144",
       "title": "直締友聲室內合唱團 合唱經緯系列音樂會Ⅲ《美麗之島》",
       "category": "演出",
       "district": "中正區",
@@ -2385,7 +2321,7 @@
       "source": "culture.tw"
     },
     {
-      "id": "culture-149",
+      "id": "culture-145",
       "title": "聖誕歌劇《阿毛與夜訪客》",
       "category": "演出",
       "district": "中正區",
@@ -2401,7 +2337,7 @@
       "source": "culture.tw"
     },
     {
-      "id": "culture-150",
+      "id": "culture-146",
       "title": "界線 qays",
       "category": "演出",
       "district": "中正區",
@@ -2417,7 +2353,7 @@
       "source": "culture.tw"
     },
     {
-      "id": "culture-151",
+      "id": "culture-147",
       "title": "《幸福微光‧愛的守護》公益募款音樂會",
       "category": "演出",
       "district": "中正區",
@@ -2433,7 +2369,7 @@
       "source": "culture.tw"
     },
     {
-      "id": "culture-152",
+      "id": "culture-148",
       "title": "2026新逸交響樂團年度公演Ⅳ 延續風沙中的愛",
       "category": "演出",
       "district": "中正區",
@@ -2449,7 +2385,7 @@
       "source": "culture.tw"
     },
     {
-      "id": "culture-153",
+      "id": "culture-149",
       "title": "《風聲異韻》薩克斯風重奏原創作品的新篇章",
       "category": "演出",
       "district": "中正區",
@@ -2465,7 +2401,7 @@
       "source": "culture.tw"
     },
     {
-      "id": "culture-154",
+      "id": "culture-150",
       "title": "時光禮讚～室內樂音樂會",
       "category": "演出",
       "district": "中正區",
@@ -2481,7 +2417,7 @@
       "source": "culture.tw"
     },
     {
-      "id": "culture-155",
+      "id": "culture-151",
       "title": "「Da Capo」2026年彩虹城市管樂團年度音樂會",
       "category": "演出",
       "district": "中正區",
@@ -2497,7 +2433,7 @@
       "source": "culture.tw"
     },
     {
-      "id": "culture-156",
+      "id": "culture-152",
       "title": "返聞—黃意棻古琴碩士畢業音樂會",
       "category": "演出",
       "district": "北投區",
@@ -2513,7 +2449,7 @@
       "source": "culture.tw"
     },
     {
-      "id": "culture-157",
+      "id": "culture-153",
       "title": "臺灣國樂團　點‧國樂《新聲報到》",
       "category": "演出",
       "district": "士林區",
@@ -2529,7 +2465,7 @@
       "source": "culture.tw"
     },
     {
-      "id": "culture-158",
+      "id": "culture-154",
       "title": "臺灣國際吉他藝術節2026「世紀新星 II」",
       "category": "演出",
       "district": "中正區",
@@ -2545,7 +2481,7 @@
       "source": "culture.tw"
     },
     {
-      "id": "culture-159",
+      "id": "culture-155",
       "title": "《弦舞歐洲》富爾敦室內樂團 2026 臺灣巡迴音樂會",
       "category": "演出",
       "district": "中正區",
@@ -2561,7 +2497,7 @@
       "source": "culture.tw"
     },
     {
-      "id": "culture-160",
+      "id": "culture-156",
       "title": "林冠廷2026鋼琴獨奏會_向柴可夫斯基致敬",
       "category": "演出",
       "district": "中正區",
@@ -2577,7 +2513,7 @@
       "source": "culture.tw"
     },
     {
-      "id": "culture-161",
+      "id": "culture-157",
       "title": "2026台北愛樂合唱團音樂會《戰爭與和平》",
       "category": "演出",
       "district": "中正區",
@@ -2593,7 +2529,7 @@
       "source": "culture.tw"
     },
     {
-      "id": "culture-162",
+      "id": "culture-158",
       "title": "2026胡志瑋長笛獨奏會",
       "category": "演出",
       "district": "中正區",
@@ -2609,7 +2545,7 @@
       "source": "culture.tw"
     },
     {
-      "id": "culture-163",
+      "id": "culture-159",
       "title": "純真年代",
       "category": "演出",
       "district": "中正區",
@@ -2625,7 +2561,7 @@
       "source": "culture.tw"
     },
     {
-      "id": "culture-164",
+      "id": "culture-160",
       "title": "《日日新，又日新》2026吳沛妮琵琶獨奏會",
       "category": "演出",
       "district": "中正區",
@@ -2641,7 +2577,7 @@
       "source": "culture.tw"
     },
     {
-      "id": "culture-165",
+      "id": "culture-161",
       "title": "2026蔡秉璋中提琴獨奏會",
       "category": "演出",
       "district": "中正區",
@@ -2657,7 +2593,7 @@
       "source": "culture.tw"
     },
     {
-      "id": "culture-166",
+      "id": "culture-162",
       "title": "日本早稻田爵士大樂團訪臺巡迴音樂會",
       "category": "演出",
       "district": "中正區",
@@ -2673,7 +2609,7 @@
       "source": "culture.tw"
     },
     {
-      "id": "culture-167",
+      "id": "culture-163",
       "title": "2026一夫樂集房角石管樂團年度公演－來自世界的明信片",
       "category": "演出",
       "district": "中正區",
@@ -2689,7 +2625,7 @@
       "source": "culture.tw"
     },
     {
-      "id": "culture-168",
+      "id": "culture-164",
       "title": "維吉爾．巴特＆鄒世烈吉他獨奏會",
       "category": "演出",
       "district": "中正區",
@@ -2705,7 +2641,7 @@
       "source": "culture.tw"
     },
     {
-      "id": "culture-169",
+      "id": "culture-165",
       "title": "James Dekleva鋼琴獨奏會｜柴可夫斯基《胡桃鉗》",
       "category": "演出",
       "district": "信義區",
@@ -2721,7 +2657,7 @@
       "source": "culture.tw"
     },
     {
-      "id": "culture-170",
+      "id": "culture-166",
       "title": "余濟倫台北愛樂講座音樂會～鋼琴詩人蕭邦的浪漫沙龍",
       "category": "演出",
       "district": "中正區",
@@ -2737,7 +2673,7 @@
       "source": "culture.tw"
     },
     {
-      "id": "culture-171",
+      "id": "culture-167",
       "title": "2026  VoxUnity International Choral Festival 沃！國際合唱音樂節",
       "category": "演出",
       "district": "中正區",
@@ -2753,7 +2689,7 @@
       "source": "culture.tw"
     },
     {
-      "id": "culture-172",
+      "id": "culture-168",
       "title": "民生社區管樂團2026年度定期公演II-老柴的浪漫 II",
       "category": "演出",
       "district": "中正區",
@@ -2769,7 +2705,7 @@
       "source": "culture.tw"
     },
     {
-      "id": "culture-173",
+      "id": "culture-169",
       "title": "『廿廿不忘』－2026 Rubato 陶笛音樂會",
       "category": "演出",
       "district": "中正區",
@@ -2785,7 +2721,7 @@
       "source": "culture.tw"
     },
     {
-      "id": "culture-174",
+      "id": "culture-170",
       "title": "靈魂共振：嘉碧妲與柯帕琴斯卡雅的室內樂狂想",
       "category": "演出",
       "district": "中正區",
@@ -2801,7 +2737,7 @@
       "source": "culture.tw"
     },
     {
-      "id": "culture-175",
+      "id": "culture-171",
       "title": "再創巔峰",
       "category": "演出",
       "district": "中正區",
@@ -2817,7 +2753,7 @@
       "source": "culture.tw"
     },
     {
-      "id": "culture-176",
+      "id": "culture-172",
       "title": "2026 賴昱如中提琴獨奏會- 《歸聲Nachklang 》",
       "category": "演出",
       "district": "中正區",
@@ -2833,7 +2769,7 @@
       "source": "culture.tw"
     },
     {
-      "id": "culture-177",
+      "id": "culture-173",
       "title": "《古典・當代・跨界》尤里·凱恩 與 新藝術管弦樂團",
       "category": "演出",
       "district": "信義區",
@@ -2849,7 +2785,7 @@
       "source": "culture.tw"
     },
     {
-      "id": "culture-178",
+      "id": "culture-174",
       "title": "劉丞緯鋼琴合作音樂會",
       "category": "演出",
       "district": "中正區",
@@ -2865,7 +2801,7 @@
       "source": "culture.tw"
     },
     {
-      "id": "culture-179",
+      "id": "culture-175",
       "title": "實踐卓越・樂動未來",
       "category": "演出",
       "district": "中正區",
@@ -2881,7 +2817,7 @@
       "source": "culture.tw"
     },
     {
-      "id": "culture-180",
+      "id": "culture-176",
       "title": "PiaCon: Fermata — SLSMusic 鋼琴音樂會",
       "category": "演出",
       "district": "南港區",
@@ -2897,7 +2833,7 @@
       "source": "culture.tw"
     },
     {
-      "id": "culture-181",
+      "id": "culture-177",
       "title": "璞玉含光系列－林秉寬鋼琴獨奏會",
       "category": "演出",
       "district": "中正區",
@@ -2913,7 +2849,7 @@
       "source": "culture.tw"
     },
     {
-      "id": "culture-182",
+      "id": "culture-178",
       "title": "《光和作用》拉縴人歌手2026年度音樂會",
       "category": "演出",
       "district": "中正區",
@@ -2929,7 +2865,7 @@
       "source": "culture.tw"
     },
     {
-      "id": "culture-183",
+      "id": "culture-179",
       "title": "小巨人絲竹室內樂系列【絲弦情 LXXIII】",
       "category": "演出",
       "district": "中正區",
@@ -2945,7 +2881,7 @@
       "source": "culture.tw"
     },
     {
-      "id": "culture-184",
+      "id": "culture-180",
       "title": "《2026臺北爵士大樂隊聖誕音樂會》",
       "category": "演出",
       "district": "中正區",
@@ -2961,7 +2897,7 @@
       "source": "culture.tw"
     },
     {
-      "id": "culture-185",
+      "id": "culture-181",
       "title": "第12屆台北東區 秋季爵士音樂節",
       "category": "演出",
       "district": "南港區",
@@ -2977,7 +2913,7 @@
       "source": "culture.tw"
     },
     {
-      "id": "culture-186",
+      "id": "culture-182",
       "title": "海歸人聲合唱團《詩劇迴影》",
       "category": "演出",
       "district": "中正區",
@@ -2993,7 +2929,7 @@
       "source": "culture.tw"
     },
     {
-      "id": "culture-187",
+      "id": "culture-183",
       "title": "2026琴音相隨「絢麗四季」─劉中與張瓊尹室內樂音樂會",
       "category": "演出",
       "district": "中正區",
@@ -3009,7 +2945,7 @@
       "source": "culture.tw"
     },
     {
-      "id": "culture-188",
+      "id": "culture-184",
       "title": "男高音 王 典 首演30週年音樂會",
       "category": "演出",
       "district": "中正區",
@@ -3025,7 +2961,7 @@
       "source": "culture.tw"
     },
     {
-      "id": "culture-189",
+      "id": "culture-185",
       "title": "仰目",
       "category": "演出",
       "district": "中正區",
@@ -3041,7 +2977,7 @@
       "source": "culture.tw"
     },
     {
-      "id": "culture-190",
+      "id": "culture-186",
       "title": "市民樂團的私房菜六~聲聲不息",
       "category": "演出",
       "district": "中正區",
@@ -3057,7 +2993,7 @@
       "source": "culture.tw"
     },
     {
-      "id": "culture-191",
+      "id": "culture-187",
       "title": "HIGH FIVE!",
       "category": "演出",
       "district": "中正區",
@@ -3073,7 +3009,7 @@
       "source": "culture.tw"
     },
     {
-      "id": "culture-192",
+      "id": "culture-188",
       "title": "佳人的光影與旋律鋼琴三重奏音樂會",
       "category": "演出",
       "district": "中正區",
@@ -3089,7 +3025,7 @@
       "source": "culture.tw"
     },
     {
-      "id": "culture-193",
+      "id": "culture-189",
       "title": "狂美《璀璨經典百老匯》交響音樂會-2027震撼再現",
       "category": "演出",
       "district": "中正區",
@@ -3105,7 +3041,7 @@
       "source": "culture.tw"
     },
     {
-      "id": "culture-194",
+      "id": "culture-190",
       "title": "《浮光極舞》雅頌合奏團第47季定期音樂會",
       "category": "演出",
       "district": "中正區",
@@ -3121,7 +3057,7 @@
       "source": "culture.tw"
     },
     {
-      "id": "culture-195",
+      "id": "culture-191",
       "title": "《風笙 SS Project》薩克斯風Ｘ笙音樂會",
       "category": "演出",
       "district": "中正區",
@@ -3137,7 +3073,7 @@
       "source": "culture.tw"
     },
     {
-      "id": "culture-196",
+      "id": "culture-192",
       "title": "謝宇威音樂作品合唱音樂會《為你而歌》",
       "category": "演出",
       "district": "南港區",
@@ -3153,7 +3089,7 @@
       "source": "culture.tw"
     },
     {
-      "id": "culture-197",
+      "id": "culture-193",
       "title": "青一女聲暨建國中學合唱團台日交流音樂會二 《連漪》",
       "category": "演出",
       "district": "信義區",
@@ -3169,7 +3105,7 @@
       "source": "culture.tw"
     },
     {
-      "id": "culture-198",
+      "id": "culture-194",
       "title": "杜沁澐小提琴獨奏會",
       "category": "演出",
       "district": "中正區",
@@ -3185,7 +3121,7 @@
       "source": "culture.tw"
     },
     {
-      "id": "culture-199",
+      "id": "culture-195",
       "title": "郭肜肜 個人揚琴音樂會",
       "category": "演出",
       "district": "中正區",
@@ -3201,7 +3137,7 @@
       "source": "culture.tw"
     },
     {
-      "id": "culture-200",
+      "id": "culture-196",
       "title": "金采合唱團「風聲水起」十一週年公益關懷音樂會",
       "category": "演出",
       "district": "南港區",
@@ -3217,7 +3153,7 @@
       "source": "culture.tw"
     },
     {
-      "id": "culture-201",
+      "id": "culture-197",
       "title": "⟪冷焰⟫ Marc Danel與李昀陽",
       "category": "演出",
       "district": "中正區",
@@ -3233,7 +3169,7 @@
       "source": "culture.tw"
     },
     {
-      "id": "culture-202",
+      "id": "culture-198",
       "title": "北藝大2026秋冬系列《北藝大管樂團2026秋冬音樂會》",
       "category": "演出",
       "district": "北投區",
@@ -3249,7 +3185,7 @@
       "source": "culture.tw"
     },
     {
-      "id": "culture-203",
+      "id": "culture-199",
       "title": "2026關渡藝術節：《閨閣・內外》——音樂留下了誰？",
       "category": "演出",
       "district": "北投區",
@@ -3265,7 +3201,7 @@
       "source": "culture.tw"
     },
     {
-      "id": "culture-204",
+      "id": "culture-200",
       "title": "潘昱同鋼琴獨奏會",
       "category": "演出",
       "district": "中正區",
@@ -3281,7 +3217,7 @@
       "source": "culture.tw"
     },
     {
-      "id": "culture-205",
+      "id": "culture-201",
       "title": "北藝大2026秋冬系列《北藝大擊樂團2026秋冬音樂會》",
       "category": "演出",
       "district": "北投區",
@@ -3297,7 +3233,7 @@
       "source": "culture.tw"
     },
     {
-      "id": "culture-206",
+      "id": "culture-202",
       "title": "北藝大2026秋冬系列《2026關渡新聲協奏曲音樂會》",
       "category": "演出",
       "district": "北投區",
@@ -3313,7 +3249,7 @@
       "source": "culture.tw"
     },
     {
-      "id": "culture-207",
+      "id": "culture-203",
       "title": "北藝大2026秋冬系列《薪傳美聲》",
       "category": "演出",
       "district": "北投區",
@@ -3329,7 +3265,7 @@
       "source": "culture.tw"
     },
     {
-      "id": "culture-208",
+      "id": "culture-204",
       "title": "北藝大2026秋冬系列《北藝大教授室內樂》",
       "category": "演出",
       "district": "北投區",
@@ -3345,7 +3281,7 @@
       "source": "culture.tw"
     },
     {
-      "id": "culture-209",
+      "id": "culture-205",
       "title": "北藝大2026秋冬系列《北藝大合唱團2026秋冬音樂會》",
       "category": "演出",
       "district": "北投區",
@@ -3361,7 +3297,7 @@
       "source": "culture.tw"
     },
     {
-      "id": "culture-210",
+      "id": "culture-206",
       "title": "北藝大2026秋冬系列《北藝大法國號重奏團2026秋冬音樂會》",
       "category": "演出",
       "district": "北投區",
@@ -3377,7 +3313,7 @@
       "source": "culture.tw"
     },
     {
-      "id": "culture-211",
+      "id": "culture-207",
       "title": "致敬蕭斯塔科維奇",
       "category": "演出",
       "district": "中正區",
@@ -3393,7 +3329,7 @@
       "source": "culture.tw"
     },
     {
-      "id": "culture-212",
+      "id": "culture-208",
       "title": "無形獨白～徐升晴小提琴獨奏會",
       "category": "演出",
       "district": "中正區",
@@ -3409,7 +3345,7 @@
       "source": "culture.tw"
     },
     {
-      "id": "culture-213",
+      "id": "culture-209",
       "title": "來自歐洲的黃金之聲",
       "category": "演出",
       "district": "中正區",
@@ -3425,7 +3361,7 @@
       "source": "culture.tw"
     },
     {
-      "id": "culture-214",
+      "id": "culture-210",
       "title": "2026大觀國際表演藝術節－國樂跨界劇場【馬嵬坡上】",
       "category": "演出",
       "district": "中正區",
@@ -3441,7 +3377,7 @@
       "source": "culture.tw"
     },
     {
-      "id": "culture-215",
+      "id": "culture-211",
       "title": "2026大觀國際表演藝術節-【星耀斯拉夫】",
       "category": "演出",
       "district": "中正區",
@@ -3457,7 +3393,7 @@
       "source": "culture.tw"
     },
     {
-      "id": "culture-216",
+      "id": "culture-212",
       "title": "NSO《愛與昇華》音樂會",
       "category": "演出",
       "district": "中正區",
@@ -3473,7 +3409,7 @@
       "source": "culture.tw"
     },
     {
-      "id": "culture-217",
+      "id": "culture-213",
       "title": "四十週年系列《呂紹嘉、葛里戈里恩與NSO》",
       "category": "演出",
       "district": "中正區",
@@ -3489,7 +3425,7 @@
       "source": "culture.tw"
     },
     {
-      "id": "culture-218",
+      "id": "culture-214",
       "title": "山下愛陽吉他獨奏會｜獻給巴赫的禮讚",
       "category": "演出",
       "district": "中正區",
@@ -3505,7 +3441,7 @@
       "source": "culture.tw"
     },
     {
-      "id": "culture-219",
+      "id": "culture-215",
       "title": "張庭碩 蔡承宏雙小提琴音樂會",
       "category": "演出",
       "district": "中正區",
@@ -3521,7 +3457,7 @@
       "source": "culture.tw"
     },
     {
-      "id": "culture-220",
+      "id": "culture-216",
       "title": "韓德爾神劇「彌賽亞」",
       "category": "演出",
       "district": "中正區",
@@ -3537,7 +3473,7 @@
       "source": "culture.tw"
     },
     {
-      "id": "culture-221",
+      "id": "culture-217",
       "title": "台灣第29屆視障藝術季  G世代四潮女",
       "category": "演出",
       "district": "中山區",
@@ -3553,7 +3489,39 @@
       "source": "culture.tw"
     },
     {
-      "id": "culture-222",
+      "id": "culture-218",
+      "title": "臺北市立大學2026校慶音樂會",
+      "category": "演出",
+      "district": "中正區",
+      "location": "臺北市中山堂中正廳",
+      "address": "臺北市中正區延平南路98號",
+      "lat": 25.0425041,
+      "lng": 121.5103541,
+      "startDate": "2026-11-19",
+      "endDate": "2026-11-19",
+      "description": "",
+      "fee": "付費",
+      "url": "",
+      "source": "culture.tw"
+    },
+    {
+      "id": "culture-219",
+      "title": "璀璨五重奏-蕭斯塔高維奇對話",
+      "category": "演出",
+      "district": "中正區",
+      "location": "國家兩廳院演奏廳",
+      "address": "臺北市中正區中山南路21-1號",
+      "lat": 25.0367564,
+      "lng": 121.519047,
+      "startDate": "2026-11-06",
+      "endDate": "2026-11-06",
+      "description": "",
+      "fee": "付費",
+      "url": "",
+      "source": "culture.tw"
+    },
+    {
+      "id": "culture-220",
       "title": "文化觀光傳統表演藝術劇場-臺北戲棚",
       "category": "演出",
       "district": "中山區",
@@ -3569,7 +3537,7 @@
       "source": "culture.tw"
     },
     {
-      "id": "culture-223",
+      "id": "culture-221",
       "title": "2026國光劇團「微劇場」",
       "category": "演出",
       "district": "士林區",
@@ -3585,7 +3553,7 @@
       "source": "culture.tw"
     },
     {
-      "id": "culture-224",
+      "id": "culture-222",
       "title": "過渡空間2026年首部劇場作品《過渡》",
       "category": "演出",
       "district": "松山區",
@@ -3601,7 +3569,7 @@
       "source": "culture.tw"
     },
     {
-      "id": "culture-225",
+      "id": "culture-223",
       "title": "《西門町一番地》2026好評回歸雙十同慶",
       "category": "演出",
       "district": "萬華區",
@@ -3617,7 +3585,7 @@
       "source": "culture.tw"
     },
     {
-      "id": "culture-226",
+      "id": "culture-224",
       "title": "果陀劇場《深夜小狗神秘習題》",
       "category": "演出",
       "district": "士林區",
@@ -3633,7 +3601,7 @@
       "source": "culture.tw"
     },
     {
-      "id": "culture-227",
+      "id": "culture-225",
       "title": "臺灣豫劇團2026唱秋公演《劉姥姥》",
       "category": "演出",
       "district": "士林區",
@@ -3649,7 +3617,7 @@
       "source": "culture.tw"
     },
     {
-      "id": "culture-228",
+      "id": "culture-226",
       "title": "娛人時代《班會別鬧！》",
       "category": "演出",
       "district": "中山區",
@@ -3665,7 +3633,7 @@
       "source": "culture.tw"
     },
     {
-      "id": "culture-229",
+      "id": "culture-227",
       "title": "【掌中戲】五洲勝義閣掌中劇團《濟世降魔傳》",
       "category": "演出",
       "district": "大同區",
@@ -3681,7 +3649,7 @@
       "source": "culture.tw"
     },
     {
-      "id": "culture-230",
+      "id": "culture-228",
       "title": "【掌中戲】新西園掌中劇團《文素臣之大義滅親-殺嫂》",
       "category": "演出",
       "district": "大同區",
@@ -3697,7 +3665,7 @@
       "source": "culture.tw"
     },
     {
-      "id": "culture-231",
+      "id": "culture-229",
       "title": "【掌中戲】不貳偶劇《天雷報》",
       "category": "演出",
       "district": "大同區",
@@ -3713,7 +3681,7 @@
       "source": "culture.tw"
     },
     {
-      "id": "culture-232",
+      "id": "culture-230",
       "title": "2026ECHO偶計劃－《玩物JAM》物件即興創作",
       "category": "演出",
       "district": "中正區",
@@ -3729,7 +3697,7 @@
       "source": "culture.tw"
     },
     {
-      "id": "culture-233",
+      "id": "culture-231",
       "title": "2026ECHO偶計劃－李劭婕《在一個離現在不遠的那個時候》＆曾彥婷《時間裡的石頭》",
       "category": "演出",
       "district": "中正區",
@@ -3745,7 +3713,7 @@
       "source": "culture.tw"
     },
     {
-      "id": "culture-234",
+      "id": "culture-232",
       "title": "長義閣掌中劇團「銳劇場」系列 -《我,哪吒》",
       "category": "演出",
       "district": "中正區",
@@ -3761,7 +3729,7 @@
       "source": "culture.tw"
     },
     {
-      "id": "culture-235",
+      "id": "culture-233",
       "title": "原創青少年音樂劇《換氣練習》",
       "category": "演出",
       "district": "中正區",
@@ -3777,7 +3745,7 @@
       "source": "culture.tw"
     },
     {
-      "id": "culture-236",
+      "id": "culture-234",
       "title": "唱歌集《大家都怎麼做音樂劇？》",
       "category": "演出",
       "district": "大安區",
@@ -3793,7 +3761,7 @@
       "source": "culture.tw"
     },
     {
-      "id": "culture-237",
+      "id": "culture-235",
       "title": "【掌中戲】亦宛然掌中劇團《續小五義之朝天嶺》",
       "category": "演出",
       "district": "大同區",
@@ -3809,7 +3777,7 @@
       "source": "culture.tw"
     },
     {
-      "id": "culture-238",
+      "id": "culture-236",
       "title": "【歌仔戲】鴻明歌劇團《戰神花雲》",
       "category": "演出",
       "district": "大同區",
@@ -3825,7 +3793,7 @@
       "source": "culture.tw"
     },
     {
-      "id": "culture-239",
+      "id": "culture-237",
       "title": "2026臺北藝術節：王墨林《最後的錄音》",
       "category": "演出",
       "district": "士林區",
@@ -3841,7 +3809,7 @@
       "source": "culture.tw"
     },
     {
-      "id": "culture-240",
+      "id": "culture-238",
       "title": "2026臺北藝術節：四把椅子劇團《太陽》",
       "category": "演出",
       "district": "士林區",
@@ -3857,7 +3825,7 @@
       "source": "culture.tw"
     },
     {
-      "id": "culture-241",
+      "id": "culture-239",
       "title": "唱進心靈的眼眸：「青瞑猴，出外讀冊拼出頭」音樂劇",
       "category": "演出",
       "district": "南港區",
@@ -3873,7 +3841,7 @@
       "source": "culture.tw"
     },
     {
-      "id": "culture-242",
+      "id": "culture-240",
       "title": "音樂劇《三個不結婚的女人》",
       "category": "演出",
       "district": "松山區",
@@ -3889,7 +3857,7 @@
       "source": "culture.tw"
     },
     {
-      "id": "culture-243",
+      "id": "culture-241",
       "title": "沉浸式劇場《士林YES！》",
       "category": "演出",
       "district": "士林區",
@@ -3905,7 +3873,7 @@
       "source": "culture.tw"
     },
     {
-      "id": "culture-244",
+      "id": "culture-242",
       "title": "拾光號｜《ON/我來開箱》來自比利時互動式劇場",
       "category": "演出",
       "district": "萬華區",
@@ -3921,7 +3889,7 @@
       "source": "culture.tw"
     },
     {
-      "id": "culture-245",
+      "id": "culture-243",
       "title": "拾光號｜《OFF/您已離線》 情緒按摩沉浸式體驗",
       "category": "演出",
       "district": "萬華區",
@@ -3937,7 +3905,7 @@
       "source": "culture.tw"
     },
     {
-      "id": "culture-246",
+      "id": "culture-244",
       "title": "【歌仔戲】元和劇子-鼓震千秋《梁紅玉》",
       "category": "演出",
       "district": "大同區",
@@ -3953,7 +3921,7 @@
       "source": "culture.tw"
     },
     {
-      "id": "culture-247",
+      "id": "culture-245",
       "title": "【表演工作坊】《彈琴說愛》",
       "category": "演出",
       "district": "士林區",
@@ -3969,7 +3937,7 @@
       "source": "culture.tw"
     },
     {
-      "id": "culture-248",
+      "id": "culture-246",
       "title": "《神隱少女》舞台劇",
       "category": "演出",
       "district": "中正區",
@@ -3985,7 +3953,7 @@
       "source": "culture.tw"
     },
     {
-      "id": "culture-249",
+      "id": "culture-247",
       "title": "國家兩廳院 ✕ 瑞士洛桑維蒂劇院——里米尼紀錄劇團《這不是個大使館》",
       "category": "演出",
       "district": "中正區",
@@ -4001,7 +3969,7 @@
       "source": "culture.tw"
     },
     {
-      "id": "culture-250",
+      "id": "culture-248",
       "title": "吳念真國民戲劇《人間條件三》台北上午零時",
       "category": "演出",
       "district": "中正區",
@@ -4017,7 +3985,7 @@
       "source": "culture.tw"
     },
     {
-      "id": "culture-251",
+      "id": "culture-249",
       "title": "《Dolores-離家那天》",
       "category": "演出",
       "district": "中正區",
@@ -4033,7 +4001,7 @@
       "source": "culture.tw"
     },
     {
-      "id": "culture-252",
+      "id": "culture-250",
       "title": "2026承功—新秀舞臺",
       "category": "演出",
       "district": "士林區",
@@ -4049,7 +4017,7 @@
       "source": "culture.tw"
     },
     {
-      "id": "culture-253",
+      "id": "culture-251",
       "title": "國立臺灣戲曲學院復興京劇團 《封神風雲》神榜降臨 ‧ 封神再起",
       "category": "演出",
       "district": "松山區",
@@ -4065,7 +4033,7 @@
       "source": "culture.tw"
     },
     {
-      "id": "culture-254",
+      "id": "culture-252",
       "title": "《今夜無法說相聲之大師來了》",
       "category": "演出",
       "district": "信義區",
@@ -4081,7 +4049,7 @@
       "source": "culture.tw"
     },
     {
-      "id": "culture-255",
+      "id": "culture-253",
       "title": "義興閣掌中劇團《四靈國：天祥書之謎》",
       "category": "演出",
       "district": "中正區",
@@ -4097,7 +4065,7 @@
       "source": "culture.tw"
     },
     {
-      "id": "culture-256",
+      "id": "culture-254",
       "title": "音樂劇《跑跑殭丙仁》",
       "category": "演出",
       "district": "士林區",
@@ -4113,7 +4081,7 @@
       "source": "culture.tw"
     },
     {
-      "id": "culture-257",
+      "id": "culture-255",
       "title": "動見体Ｘ橫山拓也《白條肉》",
       "category": "演出",
       "district": "中正區",
@@ -4129,7 +4097,7 @@
       "source": "culture.tw"
     },
     {
-      "id": "culture-258",
+      "id": "culture-256",
       "title": "狂想劇場《島上的最後晚餐》",
       "category": "演出",
       "district": "大安區",
@@ -4145,7 +4113,7 @@
       "source": "culture.tw"
     },
     {
-      "id": "culture-259",
+      "id": "culture-257",
       "title": "2026秋天藝術節 馬里喬．瓦卡．瓦倫蘇埃拉《追憶之徑》",
       "category": "演出",
       "district": "中正區",
@@ -4161,7 +4129,7 @@
       "source": "culture.tw"
     },
     {
-      "id": "culture-260",
+      "id": "culture-258",
       "title": "2026秋天藝術節 菲利普．肯恩《人間樂園》",
       "category": "演出",
       "district": "中正區",
@@ -4177,7 +4145,7 @@
       "source": "culture.tw"
     },
     {
-      "id": "culture-261",
+      "id": "culture-259",
       "title": "2026秋天藝術節 四把椅子劇團 ✕ 大衛．吉塞森《如果我有寫信給你》",
       "category": "演出",
       "district": "中正區",
@@ -4193,7 +4161,7 @@
       "source": "culture.tw"
     },
     {
-      "id": "culture-262",
+      "id": "culture-260",
       "title": "2026秋天藝術節 卡羅琳．居拉．阮 《眼淚》",
       "category": "演出",
       "district": "中正區",
@@ -4209,7 +4177,7 @@
       "source": "culture.tw"
     },
     {
-      "id": "culture-263",
+      "id": "culture-261",
       "title": "娛人時代《後台，我總算學會了如何去愛》八週年旗艦製作",
       "category": "演出",
       "district": "中山區",
@@ -4225,7 +4193,7 @@
       "source": "culture.tw"
     },
     {
-      "id": "culture-264",
+      "id": "culture-262",
       "title": "傳奇戲樓《藝決天下・四部曲》興傳奇青年劇場",
       "category": "演出",
       "district": "中正區",
@@ -4241,7 +4209,7 @@
       "source": "culture.tw"
     },
     {
-      "id": "culture-265",
+      "id": "culture-263",
       "title": "梨園《傾國之戀》當代傳奇劇場",
       "category": "演出",
       "district": "中正區",
@@ -4257,7 +4225,7 @@
       "source": "culture.tw"
     },
     {
-      "id": "culture-266",
+      "id": "culture-264",
       "title": "2026客家藝展平台—《水鬼學校和失去媽媽的水獺》音樂劇",
       "category": "演出",
       "district": "中正區",
@@ -4273,7 +4241,7 @@
       "source": "culture.tw"
     },
     {
-      "id": "culture-267",
+      "id": "culture-265",
       "title": "2026歌仔戲旗艦展演補助計畫-明華園總團旗艦製作《烏龍天下》",
       "category": "演出",
       "district": "士林區",
@@ -4289,7 +4257,7 @@
       "source": "culture.tw"
     },
     {
-      "id": "culture-268",
+      "id": "culture-266",
       "title": "國光劇團2026《永恆時尚：小雪》演出",
       "category": "演出",
       "district": "士林區",
@@ -4305,7 +4273,7 @@
       "source": "culture.tw"
     },
     {
-      "id": "culture-269",
+      "id": "culture-267",
       "title": "2026財團法人廖瓊枝歌仔戲文教基金會《火燒紅蓮寺》",
       "category": "演出",
       "district": "士林區",
@@ -4321,7 +4289,7 @@
       "source": "culture.tw"
     },
     {
-      "id": "culture-270",
+      "id": "culture-268",
       "title": "果陀劇場《Crash, Boom Boom Love!》演唱會音樂劇",
       "category": "演出",
       "district": "松山區",
@@ -4337,7 +4305,7 @@
       "source": "culture.tw"
     },
     {
-      "id": "culture-271",
+      "id": "culture-269",
       "title": "新文化館年度戲劇演出《大正十六年》",
       "category": "演出",
       "district": "萬華區",
@@ -4353,7 +4321,7 @@
       "source": "culture.tw"
     },
     {
-      "id": "culture-272",
+      "id": "culture-270",
       "title": "唱歌集《今晚，我想來點》（一直）翻轉の人生音樂劇",
       "category": "演出",
       "district": "中正區",
@@ -4369,7 +4337,7 @@
       "source": "culture.tw"
     },
     {
-      "id": "culture-273",
+      "id": "culture-271",
       "title": "山宛然劇團兒童布袋戲《鷂婆在哪裡？》",
       "category": "演出",
       "district": "松山區",
@@ -4385,7 +4353,7 @@
       "source": "culture.tw"
     },
     {
-      "id": "culture-274",
+      "id": "culture-272",
       "title": "2026歌仔戲旗艦展演—唐美雲歌仔戲團《南都幽靈夜譚》",
       "category": "演出",
       "district": "士林區",
@@ -4401,7 +4369,7 @@
       "source": "culture.tw"
     },
     {
-      "id": "culture-275",
+      "id": "culture-273",
       "title": "自由社《集體登入：//B1神廟》臺大劇場基地創作計畫",
       "category": "演出",
       "district": "大安區",
@@ -4417,7 +4385,7 @@
       "source": "culture.tw"
     },
     {
-      "id": "culture-276",
+      "id": "culture-274",
       "title": "一心戲劇團 《閻王的假期》",
       "category": "演出",
       "district": "松山區",
@@ -4433,7 +4401,7 @@
       "source": "culture.tw"
     },
     {
-      "id": "culture-277",
+      "id": "culture-275",
       "title": "台語光影戲《山神的餅店》劇場版",
       "category": "演出",
       "district": "中正區",
@@ -4449,7 +4417,7 @@
       "source": "culture.tw"
     },
     {
-      "id": "culture-278",
+      "id": "culture-276",
       "title": "2026莫比斯圓環創作公社《非常譯外：群盲》",
       "category": "演出",
       "district": "中正區",
@@ -4465,7 +4433,7 @@
       "source": "culture.tw"
     },
     {
-      "id": "culture-279",
+      "id": "culture-277",
       "title": "【醉花陰】的萬千氣象",
       "category": "演出",
       "district": "大同區",
@@ -4481,7 +4449,7 @@
       "source": "culture.tw"
     },
     {
-      "id": "culture-280",
+      "id": "culture-278",
       "title": "于魁智、李勝素與中國戲曲學院名家匯演",
       "category": "演出",
       "district": "中正區",
@@ -4497,7 +4465,7 @@
       "source": "culture.tw"
     },
     {
-      "id": "culture-281",
+      "id": "culture-279",
       "title": "《當時光起舞》臺北市中山堂90週年紀念演出",
       "category": "演出",
       "district": "中正區",
@@ -4513,7 +4481,7 @@
       "source": "culture.tw"
     },
     {
-      "id": "culture-282",
+      "id": "culture-280",
       "title": "「外交官的故事」部分發表會（含劇團重要報告等）",
       "category": "演出",
       "district": "信義區",
@@ -4521,7 +4489,7 @@
       "address": "臺北市信義區菸廠路88號B1",
       "lat": 25.04475517961833,
       "lng": 121.56143652677528,
-      "startDate": "2026-10-06",
+      "startDate": "2026-10-07",
       "endDate": "2026-10-07",
       "description": "",
       "fee": "付費",
@@ -4529,7 +4497,7 @@
       "source": "culture.tw"
     },
     {
-      "id": "culture-283",
+      "id": "culture-281",
       "title": "京聲劇集~戲曲萬花筒",
       "category": "演出",
       "district": "大同區",
@@ -4545,7 +4513,7 @@
       "source": "culture.tw"
     },
     {
-      "id": "culture-284",
+      "id": "culture-282",
       "title": "真・春雨漫才專場《藝術就是爆炸》",
       "category": "演出",
       "district": "中山區",
@@ -4561,7 +4529,7 @@
       "source": "culture.tw"
     },
     {
-      "id": "culture-285",
+      "id": "culture-283",
       "title": "【TCO】三韻流芳",
       "category": "演出",
       "district": "中正區",
@@ -4577,7 +4545,7 @@
       "source": "culture.tw"
     },
     {
-      "id": "culture-286",
+      "id": "culture-284",
       "title": "《好了啦！達康！》第十季第三集－請問可以耽誤你120分鐘嗎？",
       "category": "演出",
       "district": "中山區",
@@ -4593,7 +4561,7 @@
       "source": "culture.tw"
     },
     {
-      "id": "culture-287",
+      "id": "culture-285",
       "title": "面粉趴2026 秋",
       "category": "演出",
       "district": "南港區",
@@ -4609,7 +4577,7 @@
       "source": "culture.tw"
     },
     {
-      "id": "culture-288",
+      "id": "culture-286",
       "title": "金枝演社：當代野台《飛賊夜來香》",
       "category": "演出",
       "district": "士林區",
@@ -4625,7 +4593,7 @@
       "source": "culture.tw"
     },
     {
-      "id": "culture-289",
+      "id": "culture-287",
       "title": "【客家戲】金滿圓戲劇團《憐蓮．如絲蘿》",
       "category": "演出",
       "district": "大同區",
@@ -4641,7 +4609,7 @@
       "source": "culture.tw"
     },
     {
-      "id": "culture-290",
+      "id": "culture-288",
       "title": "豬探長小劇場《松鼠大亨驚魂記》",
       "category": "演出",
       "district": "松山區",
@@ -4657,7 +4625,7 @@
       "source": "culture.tw"
     },
     {
-      "id": "culture-291",
+      "id": "culture-289",
       "title": "2026廳院選 當代傳奇劇場《慾望城國》王者再臨",
       "category": "演出",
       "district": "中正區",
@@ -4673,7 +4641,7 @@
       "source": "culture.tw"
     },
     {
-      "id": "culture-292",
+      "id": "culture-290",
       "title": "2026亞洲相遇計畫《喑 Silent Voice》",
       "category": "演出",
       "district": "中正區",
@@ -4689,7 +4657,7 @@
       "source": "culture.tw"
     },
     {
-      "id": "culture-293",
+      "id": "culture-291",
       "title": "2026關渡藝術節戲劇學院秋季公演《那該死美好的日子》",
       "category": "演出",
       "district": "北投區",
@@ -4705,7 +4673,7 @@
       "source": "culture.tw"
     },
     {
-      "id": "culture-294",
+      "id": "culture-292",
       "title": "裸（R.O.D）劇團習作（二）《Not Today》",
       "category": "演出",
       "district": "中正區",
@@ -4721,7 +4689,7 @@
       "source": "culture.tw"
     },
     {
-      "id": "culture-295",
+      "id": "culture-293",
       "title": "兒童布袋戲《焰王現身：心火山的祕密》",
       "category": "演出",
       "district": "中正區",
@@ -4737,7 +4705,7 @@
       "source": "culture.tw"
     },
     {
-      "id": "culture-296",
+      "id": "culture-294",
       "title": "戲釀青春──2026駐團演訓計畫 育成聯合展演",
       "category": "演出",
       "district": "士林區",
@@ -4753,7 +4721,7 @@
       "source": "culture.tw"
     },
     {
-      "id": "culture-297",
+      "id": "culture-295",
       "title": "不可能在一個晚上演完莎士比亞全集吧?",
       "category": "演出",
       "district": "中正區",
@@ -4769,7 +4737,7 @@
       "source": "culture.tw"
     },
     {
-      "id": "culture-298",
+      "id": "culture-296",
       "title": "《太空歌劇：那些被縮小與過分神經質的老人在水果星球上的拓樸學》",
       "category": "演出",
       "district": "中正區",
@@ -4785,7 +4753,7 @@
       "source": "culture.tw"
     },
     {
-      "id": "culture-299",
+      "id": "culture-297",
       "title": "《戲頭2》",
       "category": "演出",
       "district": "士林區",
@@ -4801,7 +4769,7 @@
       "source": "culture.tw"
     },
     {
-      "id": "culture-300",
+      "id": "culture-298",
       "title": "BABY 的宇宙怒氣「大」冒險",
       "category": "演出",
       "district": "士林區",
@@ -4817,7 +4785,7 @@
       "source": "culture.tw"
     },
     {
-      "id": "culture-301",
+      "id": "culture-299",
       "title": "無花果樹毋是毋開花-白寶珠女士的故事",
       "category": "演出",
       "district": "中正區",
@@ -4833,7 +4801,7 @@
       "source": "culture.tw"
     },
     {
-      "id": "culture-302",
+      "id": "culture-300",
       "title": "試試製作所《不在場練習》",
       "category": "演出",
       "district": "中正區",
@@ -4849,7 +4817,7 @@
       "source": "culture.tw"
     },
     {
-      "id": "culture-303",
+      "id": "culture-301",
       "title": "馬戲埕《抵家》：台味高空馬戲創作計畫",
       "category": "演出",
       "district": "士林區",
@@ -4865,7 +4833,7 @@
       "source": "culture.tw"
     },
     {
-      "id": "culture-304",
+      "id": "culture-302",
       "title": "南管戲傳統劇目《陳三五娘》〈賞春〉〈賞燈〉〈答歌〉",
       "category": "演出",
       "district": "北投區",
@@ -4881,7 +4849,7 @@
       "source": "culture.tw"
     },
     {
-      "id": "culture-305",
+      "id": "culture-303",
       "title": "音樂劇《阿媽的比基尼》讀劇音樂會",
       "category": "演出",
       "district": "中山區",
@@ -4897,7 +4865,7 @@
       "source": "culture.tw"
     },
     {
-      "id": "culture-306",
+      "id": "culture-304",
       "title": "職男人生6-不想上班",
       "category": "演出",
       "district": "士林區",
@@ -4913,7 +4881,7 @@
       "source": "culture.tw"
     },
     {
-      "id": "culture-307",
+      "id": "culture-305",
       "title": "《Black Plum Blossom x 我的子宮在不消停的慾望中燃燒》  酷兒行為藝術展演 – 曾智偉、黃家曄、許生翰",
       "category": "演出",
       "district": "中正區",
@@ -4929,7 +4897,7 @@
       "source": "culture.tw"
     },
     {
-      "id": "culture-308",
+      "id": "culture-306",
       "title": "大稻埕戲苑「115年駐館團隊專場演出」《三國演義之古城會》",
       "category": "演出",
       "district": "大同區",
@@ -4945,7 +4913,7 @@
       "source": "culture.tw"
     },
     {
-      "id": "culture-309",
+      "id": "culture-307",
       "title": "月印：月光下，誰記得？",
       "category": "演出",
       "district": "中正區",
@@ -4961,7 +4929,7 @@
       "source": "culture.tw"
     },
     {
-      "id": "culture-310",
+      "id": "culture-308",
       "title": "2026暴羅WALK《凡事求一個願》",
       "category": "演出",
       "district": "中山區",
@@ -4977,7 +4945,7 @@
       "source": "culture.tw"
     },
     {
-      "id": "culture-311",
+      "id": "culture-309",
       "title": "曉劇場二十週年紀念演出：穢土天堂二部曲《地下女子》",
       "category": "演出",
       "district": "萬華區",
@@ -4993,7 +4961,7 @@
       "source": "culture.tw"
     },
     {
-      "id": "culture-312",
+      "id": "culture-310",
       "title": "此情難訴・崑劇折子戲",
       "category": "演出",
       "district": "中正區",
@@ -5009,7 +4977,7 @@
       "source": "culture.tw"
     },
     {
-      "id": "culture-313",
+      "id": "culture-311",
       "title": "《生氣王子》親子繪本音樂會",
       "category": "演出",
       "district": "信義區",
@@ -5025,7 +4993,7 @@
       "source": "culture.tw"
     },
     {
-      "id": "culture-314",
+      "id": "culture-312",
       "title": "盜火劇團 權力首部曲《椅仔》",
       "category": "演出",
       "district": "中正區",
@@ -5041,7 +5009,7 @@
       "source": "culture.tw"
     },
     {
-      "id": "culture-315",
+      "id": "culture-313",
       "title": "烏貓戲出《燈殼樓的委託-小戲蟲拜先生》",
       "category": "演出",
       "district": "大同區",
@@ -5057,7 +5025,7 @@
       "source": "culture.tw"
     },
     {
-      "id": "culture-316",
+      "id": "culture-314",
       "title": "2027《梨園盛世》名角大匯演",
       "category": "演出",
       "district": "士林區",
@@ -5073,7 +5041,7 @@
       "source": "culture.tw"
     },
     {
-      "id": "culture-317",
+      "id": "culture-315",
       "title": "形動亞洲交會聯演在台北",
       "category": "演出",
       "district": "士林區",
@@ -5089,7 +5057,7 @@
       "source": "culture.tw"
     },
     {
-      "id": "culture-318",
+      "id": "culture-316",
       "title": "迎向臺大100漫遊劇場《迷走1945：帝大腳踏車之謎》",
       "category": "演出",
       "district": "大安區",
@@ -5105,7 +5073,7 @@
       "source": "culture.tw"
     },
     {
-      "id": "culture-319",
+      "id": "culture-317",
       "title": "說唱四季吟〜大漢玉集創團40年慶公演",
       "category": "演出",
       "district": "中正區",
@@ -5121,7 +5089,7 @@
       "source": "culture.tw"
     },
     {
-      "id": "culture-320",
+      "id": "culture-318",
       "title": "拾棲劇團《賞屋大會—2026我們城中見》",
       "category": "演出",
       "district": "中正區",
@@ -5137,7 +5105,7 @@
       "source": "culture.tw"
     },
     {
-      "id": "culture-321",
+      "id": "culture-319",
       "title": "國立臺灣大學戲劇學系2026學期製作《BIG LOVE》",
       "category": "演出",
       "district": "大安區",
@@ -5153,7 +5121,7 @@
       "source": "culture.tw"
     },
     {
-      "id": "culture-322",
+      "id": "culture-320",
       "title": "《西門町一番地》2026年末歡樂場",
       "category": "演出",
       "district": "萬華區",
@@ -5169,7 +5137,7 @@
       "source": "culture.tw"
     },
     {
-      "id": "culture-323",
+      "id": "culture-321",
       "title": "2026辜公亮文教基金會 精演好老戲《巴山秀才》、南派《龍鳳呈祥》",
       "category": "演出",
       "district": "士林區",
@@ -5185,7 +5153,7 @@
       "source": "culture.tw"
     },
     {
-      "id": "culture-324",
+      "id": "culture-322",
       "title": "《Plaza Suite》好事多磨大飯店",
       "category": "演出",
       "district": "信義區",
@@ -5201,7 +5169,7 @@
       "source": "culture.tw"
     },
     {
-      "id": "culture-325",
+      "id": "culture-323",
       "title": "《吾師吳師》吳兆南百歲紀念演出",
       "category": "演出",
       "district": "中正區",
@@ -5217,7 +5185,7 @@
       "source": "culture.tw"
     },
     {
-      "id": "culture-326",
+      "id": "culture-324",
       "title": "遠雄人壽2026家庭照顧者喘息服務《有一天我們會》公益舞台劇",
       "category": "演出",
       "district": "信義區",
@@ -5233,7 +5201,7 @@
       "source": "culture.tw"
     },
     {
-      "id": "culture-327",
+      "id": "culture-325",
       "title": "《烏秋—黑羽的斷翼者》動漫式武打音樂劇",
       "category": "演出",
       "district": "士林區",
@@ -5249,7 +5217,7 @@
       "source": "culture.tw"
     },
     {
-      "id": "culture-328",
+      "id": "culture-326",
       "title": "《蟲蟲馬戲樂園》之 真的有蟲蟲！",
       "category": "演出",
       "district": "中正區",
@@ -5265,7 +5233,7 @@
       "source": "culture.tw"
     },
     {
-      "id": "culture-329",
+      "id": "culture-327",
       "title": "2026大觀國際表演藝術節 -【潮渡人之歌】",
       "category": "演出",
       "district": "中正區",
@@ -5281,7 +5249,7 @@
       "source": "culture.tw"
     },
     {
-      "id": "culture-330",
+      "id": "culture-328",
       "title": "臺北城市科技大學演藝事業系2026冬季展演《微光之翼》",
       "category": "演出",
       "district": "中正區",
@@ -5297,7 +5265,7 @@
       "source": "culture.tw"
     },
     {
-      "id": "culture-331",
+      "id": "culture-329",
       "title": "面白放送",
       "category": "演出",
       "district": "大安區",
@@ -5313,7 +5281,7 @@
       "source": "culture.tw"
     },
     {
-      "id": "culture-332",
+      "id": "culture-330",
       "title": "臺師大表藝系X碩士班畢業製作《舞告青春》原創音樂劇",
       "category": "演出",
       "district": "大安區",
@@ -5323,6 +5291,38 @@
       "lng": 121.53812417236932,
       "startDate": "2026-12-25",
       "endDate": "2026-12-27",
+      "description": "",
+      "fee": "付費",
+      "url": "",
+      "source": "culture.tw"
+    },
+    {
+      "id": "culture-331",
+      "title": "四把椅子劇團《世界是舞台，那 Center Center 在哪裡？》——演員請上台",
+      "category": "演出",
+      "district": "中正區",
+      "location": "國家兩廳院實驗劇場",
+      "address": "臺北市中正區中山南路21-1號",
+      "lat": 25.035109625324957,
+      "lng": 121.51862076759792,
+      "startDate": "2026-12-11",
+      "endDate": "2026-12-13",
+      "description": "",
+      "fee": "付費",
+      "url": "",
+      "source": "culture.tw"
+    },
+    {
+      "id": "culture-332",
+      "title": "Re:密室遊戲",
+      "category": "演出",
+      "district": "士林區",
+      "location": "D.D.Box 劇場（Date Day Box）",
+      "address": "臺北市士林區承德路五段55號（兒童新樂園裡面）",
+      "lat": 25.09702945557194,
+      "lng": 121.51439251113416,
+      "startDate": "2027-01-08",
+      "endDate": "2027-01-17",
       "description": "",
       "fee": "付費",
       "url": "",
@@ -6281,7 +6281,7 @@
       "address": "臺北市大安區和平東路二段134號",
       "lat": 25.0246244,
       "lng": 121.5446374,
-      "startDate": "2026-10-06",
+      "startDate": "2026-10-07",
       "endDate": "2026-10-11",
       "description": "",
       "fee": "付費",
@@ -6329,7 +6329,7 @@
       "address": "新北市板橋區府中路15號3樓",
       "lat": 25.009534281424624,
       "lng": 121.45960650677142,
-      "startDate": "2026-10-06",
+      "startDate": "2026-10-07",
       "endDate": "2026-11-22",
       "description": "",
       "fee": "付費",
@@ -6345,7 +6345,7 @@
       "address": "新北市板橋區府中路15號5樓",
       "lat": 25.009534281424624,
       "lng": 121.45960650677142,
-      "startDate": "2026-10-06",
+      "startDate": "2026-10-07",
       "endDate": "2026-11-22",
       "description": "",
       "fee": "付費",
@@ -6361,7 +6361,7 @@
       "address": "新北市板橋區府中路15號4樓",
       "lat": 25.009534281424624,
       "lng": 121.45960650677142,
-      "startDate": "2026-10-06",
+      "startDate": "2026-10-07",
       "endDate": "2026-11-22",
       "description": "",
       "fee": "付費",
@@ -8017,20 +8017,20 @@
       "description": "日本動漫角色香氛品牌 primaniacs 首家海外旗艦店「primaniacs 台北三創店」，將於 10 月 4 日（日）迎來開幕一週年。除了在 10 月初登場的《新世紀福音戰士》系列香氛外，官方也自今（2）日起展開「primaniacs HALLOWEEN FAIR 萬聖節特別企劃」，活動將持續至 11 月 1 日為止。 以日本東京銀座為總店的 primaniacs，將角色的魅力與形象融入香氛"
     },
     {
-      "id": "gnn-312636",
-      "title": "《奇諾之旅》插畫家黑星紅白將於 d/art 九週年來台展出「stella｜黑星紅白台灣初個展」",
-      "category": "動漫電玩",
-      "startDate": "2026-10-24",
-      "endDate": "2026-11-22",
-      "location": "西門町",
-      "address": "台北市萬華區",
-      "district": "萬華區",
-      "lat": 25.0426,
-      "lng": 121.5085,
-      "fee": "免費",
-      "url": "https://gnn.gamer.com.tw/detail.php?sn=312636",
-      "source": "gnn",
-      "description": "d/art 慶祝創立九週年邀請到參與《奇諾之旅 the beautiful world》、《Fate/Grand Order》、《Sword Art Online 刀劍神域外傳 Gun Gale Online》等作的日本插畫家黑星紅白於 2026 年 10 月 24 日（六）至 11 月 22 日（日）在西門町 d/art 畫廊舉辦「stella｜黑星紅白台灣初個展」。 黑星紅白擅長以低彩度融合茶"
+      "id": "accu-2609150121031250661927",
+      "title": "Stage 1 \\u0026 2 - 臺灣盃 COLLEGE HIGH vol.22 世界大學街舞高峰會",
+      "category": "展覽",
+      "startDate": "2026-10-17",
+      "endDate": "2026-10-18",
+      "location": "台灣台北市100中正區仁愛路一段17號",
+      "address": "台灣台北市100中正區仁愛路一段17號",
+      "district": "中正區",
+      "lat": 25.0324,
+      "lng": 121.5198,
+      "fee": "付費",
+      "url": "https://www.accupass.com/event/2609150121031250661927",
+      "source": "accupass",
+      "description": "Proudly presented by Team SKIP 中華民國街舞運動推廣協會 & NCAT 文化總會\n『No College High , No College Life！』\n『人生沒有上過咖哩雞嗨，大學這趟就白來了！』"
     },
     {
       "id": "accu-2607080922099756008700",
@@ -8049,22 +8049,6 @@
       "description": "【SIF IN TAIPEI 首爾插畫展台北站】首度登台！\n韓國指標級插畫盛會於 2026 年正式來台，帶領觀眾感受韓國插畫文化與亞洲創作能量。\nSIF 首爾插畫展（The Seoul Illustration Fair）為韓國最具代表性的插畫展會，每年匯聚世界各地創作者，共同打造亞洲最重要的創意交流平台。\n本次由【台北國際插畫博覽會】主辦方「開翔國際展覽」與韓國主辦方「OCMakers」合作，現"
     },
     {
-      "id": "accu-2609150121031250661927",
-      "title": "Stage 1 \\u0026 2 - 臺灣盃 COLLEGE HIGH vol.22 世界大學街舞高峰會",
-      "category": "展覽",
-      "startDate": "2026-10-17",
-      "endDate": "2026-10-18",
-      "location": "台灣台北市100中正區仁愛路一段17號",
-      "address": "台灣台北市100中正區仁愛路一段17號",
-      "district": "中正區",
-      "lat": 25.0324,
-      "lng": 121.5198,
-      "fee": "付費",
-      "url": "https://www.accupass.com/event/2609150121031250661927",
-      "source": "accupass",
-      "description": "Proudly presented by Team SKIP 中華民國街舞運動推廣協會 & NCAT 文化總會\n『No College High , No College Life！』\n『人生沒有上過咖哩雞嗨，大學這趟就白來了！』"
-    },
-    {
       "id": "accu-2609250552051315174380",
       "title": "2026｜10月｜《二三嚴選》｜中文單口喜劇拼盤",
       "category": "展覽",
@@ -8081,22 +8065,6 @@
       "description": "23喜劇打造最強的單口喜劇陣容《二三嚴選》\n5位強棒，每人帶來15分鐘的笑料，帶來最密集的笑點轟炸！"
     },
     {
-      "id": "accu-2609041147021848655729",
-      "title": "2026 樹林跳：跳島舞蹈節－身體工作坊 WIDF Dance Workshops",
-      "category": "展覽",
-      "startDate": "2026-11-16",
-      "endDate": "2026-11-27",
-      "location": "台灣新北市樹林區樹新路40-8號",
-      "address": "台灣新北市樹林區樹新路40-8號",
-      "district": "中正區",
-      "lat": 25.0324,
-      "lng": 121.5198,
-      "fee": "付費",
-      "url": "https://www.accupass.com/event/2609041147021848655729",
-      "source": "accupass",
-      "description": "2026年「樹林跳：跳島舞蹈節」邀請您身體放輕鬆、頭腦放空，跟著跳島練舞功。2026年11月16日至11月27日舉辦超豪華16場工作坊，由本次參與舞蹈節的藝術家開設工作坊，規劃大眾能夠共同參與之課程，內容包含入門的肢體開發，及東西方不同風格的舞蹈體驗，任何年齡與舞齡，皆能在舞蹈節找到適合自己的活動。透過包羅萬象的身體工作坊連結眾人、吸引更多族群一起跳進舞蹈節。"
-    },
-    {
       "id": "accu-2607231109161703594540",
       "title": "愛手創國際手作設計節 靈感午茶會 2026 ISHANDS International Craft Design Festival",
       "category": "展覽",
@@ -8111,38 +8079,6 @@
       "url": "https://www.accupass.com/event/2607231109161703594540",
       "source": "accupass",
       "description": "夏日最期待的手作盛事，終於回來了！\n\n2026 愛手創日本手作祭－招縁万来\n今年以「招財貓」為靈魂主角，將日本職人的專業技藝化身為招福使者，\n用不同創作形式傳遞祝福與相遇的美好。\n\n誠摯邀請您來現場感受手作的溫度，遇見屬於自己的福緣！\n從欣賞、體驗到選物，五感齊開——\n跟著招財貓的腳步，帶著好運回家吧！"
-    },
-    {
-      "id": "accu-2609211315522118492055",
-      "title": "2026｜十月 漫才 Open Mic｜眾多漫才組合｜聯合出擊",
-      "category": "展覽",
-      "startDate": "2026-10-04",
-      "endDate": "2026-10-18",
-      "location": "台灣台北市中山區林森北路286號地下一樓",
-      "address": "台灣台北市中山區林森北路286號地下一樓",
-      "district": "中山區",
-      "lat": 25.0634,
-      "lng": 121.5326,
-      "fee": "付費",
-      "url": "https://www.accupass.com/event/2609211315522118492055",
-      "source": "accupass",
-      "description": "想一睹眾多漫才演員現場測試段子的樣子嗎？ 400元附一杯酒飲/無酒精軟飲 整晚最多會有八組漫才喜劇演員的Open Mic CP值超高的活動！歡迎來一起放鬆大笑！"
-    },
-    {
-      "id": "accu-2607080649073395119800",
-      "title": "ART TAIPEI 2026 台北國際藝術博覽會",
-      "category": "展覽",
-      "startDate": "2026-10-30",
-      "endDate": "2026-11-02",
-      "location": "台灣台北市信義區信義路五段5號",
-      "address": "台灣台北市信義區信義路五段5號",
-      "district": "信義區",
-      "lat": 25.0335,
-      "lng": 121.5678,
-      "fee": "付費",
-      "url": "https://www.accupass.com/event/2607080649073395119800",
-      "source": "accupass",
-      "description": "第 33 屆 ART TAIPEI 台北國際藝術博覽會將於 2026 年 10 月 30 日至 11 月 2 日在台北世貿一館舉辦。本屆展會匯聚超過百間國內外精選畫廊，展示當代藝術家作品與市場趨勢。\n\n現場除了畫廊展區，亦規劃「MIT 新人推薦特區」、「原住民族藝術特區」、「公共藝術計畫」與主題藝術講座，兼具市場規模與學術面向。"
     },
     {
       "id": "accu-2608160631329762430300",
@@ -8175,6 +8111,38 @@
       "url": "https://www.accupass.com/event/2608171137481477207040",
       "source": "accupass",
       "description": "台灣新創投資圈年度盛會，2026 年邁入第四屆！10/14 創辦人論壇、10/15 投資人論壇，集結頂尖創業家、創投合夥人、CVC、基金 LP、高資產投資人與產業專家，深入交流新創投資、AI、Edge AI、生醫、半導體硬科技、國際市場與併購等關鍵趨勢。\n從新 IPO 創業家的上市實戰、AI 與 Edge AI 技術落地，到半導體硬科技、企業出海、併購與早期基金投資，一次掌握 2026 台灣新創與"
+    },
+    {
+      "id": "accu-2609210630302074755672",
+      "title": "2026遠東建築獎－古蹟參訪月五部曲：板橋雅韻 － 林家花園的園林逸趣與一派悠閒",
+      "category": "展覽",
+      "startDate": "2026-10-13",
+      "endDate": "2026-10-17",
+      "location": "台灣新北市板橋區西門街9號",
+      "address": "台灣新北市板橋區西門街9號",
+      "district": "萬華區",
+      "lat": 25.0344,
+      "lng": 121.4997,
+      "fee": "付費",
+      "url": "https://www.accupass.com/event/2609210630302074755672",
+      "source": "accupass",
+      "description": "遠東集團徐元智先生紀念基金會秉持推動環境美學與提升建築藝術的理念，自2022年古蹟參訪首部曲始於臺北孔廟及臺北保安宮，2023年踏足大稻埕，2024年深入艋舺，2025年遊走淡水，2026年再次邀請李乾朗教授擔任總顧問，與知名歷史學者周宗賢教授、都市偵探李清志教授以及藝術學者莊伯和教授分別授課，再交由專業導覽林嘉澍老師帶領愛好歷史與建築的民眾，從林本源家族的發展、園邸建築格局、匠藝裝飾及園林美學等"
+    },
+    {
+      "id": "accu-2607080649073395119800",
+      "title": "ART TAIPEI 2026 台北國際藝術博覽會",
+      "category": "展覽",
+      "startDate": "2026-10-30",
+      "endDate": "2026-11-02",
+      "location": "台灣台北市信義區信義路五段5號",
+      "address": "台灣台北市信義區信義路五段5號",
+      "district": "信義區",
+      "lat": 25.0335,
+      "lng": 121.5678,
+      "fee": "付費",
+      "url": "https://www.accupass.com/event/2607080649073395119800",
+      "source": "accupass",
+      "description": "第 33 屆 ART TAIPEI 台北國際藝術博覽會將於 2026 年 10 月 30 日至 11 月 2 日在台北世貿一館舉辦。本屆展會匯聚超過百間國內外精選畫廊，展示當代藝術家作品與市場趨勢。\n\n現場除了畫廊展區，亦規劃「MIT 新人推薦特區」、「原住民族藝術特區」、「公共藝術計畫」與主題藝術講座，兼具市場規模與學術面向。"
     },
     {
       "id": "accu-2609300850235219266570",
@@ -8241,20 +8209,20 @@
       "description": "Taipei Art Notes 2026 秋季「藝術小聚」推出兩場線上主題分享。十月「一起讀懂展覽動線」，透過展覽案例拆解動線、空間規劃與觀看經驗，練習讀懂策展安排；十一月「我的 AI 企劃工作流」，從實際藝文專案出發，聊聊 AI 如何應用於情蒐研究、提案撰寫，並透過記憶與 Skill 建立可持續累積的企劃工作流。"
     },
     {
-      "id": "accu-2604300743108834743190",
-      "title": "椰林日不落松菸好日市集",
-      "category": "市集",
-      "startDate": "2026-10-10",
-      "endDate": "2026-10-11",
-      "location": "台灣台北市光復南路133號",
-      "address": "台灣台北市光復南路133號",
-      "district": "中正區",
-      "lat": 25.0324,
-      "lng": 121.5198,
+      "id": "accu-2608120718506226010300",
+      "title": "秋季實戰班 ── 展覽企劃 X 政府標案",
+      "category": "展覽",
+      "startDate": "2026-10-09",
+      "endDate": "2026-10-26",
+      "location": "台灣台北市松山區南京東路五段212號5F",
+      "address": "台灣台北市松山區南京東路五段212號5F",
+      "district": "松山區",
+      "lat": 25.0504,
+      "lng": 121.5773,
       "fee": "付費",
-      "url": "https://www.accupass.com/event/2604300743108834743190",
+      "url": "https://www.accupass.com/event/2608120718506226010300",
       "source": "accupass",
-      "description": "在城市裡，延長你的夏天，以椰林大道為場域，打造一座不用出國的城市度假島。這不只是市集，而是一場讓人停留更久、消費更放鬆的生活體驗。餐飲、調酒、甜點、異國選品與風格品牌，搭配音樂與場域氛圍，創造「逛市集＝在旅行」的沉浸感。"
+      "description": "Taipei Art Notes 秋季推出「展覽企劃 × 政府標案」實戰班，以三日密集工作坊形式，帶領學員把想法真正轉化成一份完整企劃。展覽企劃班從全球展演實地走訪資料出發，結合2015 年《夢我所夢－草間彌生亞洲巡迴展台灣站》幕後經驗，淬煉成策展企劃心法；政府標案班則從讀懂標規、架構提案、發展策略，到簡報與統問統答實戰演練，並以《臺北白晝之夜》或近兩年公告標案進行模擬企劃，讓學生走入真實提案情境"
     },
     {
       "id": "accu-2604300747111075847356",
@@ -8271,6 +8239,22 @@
       "url": "https://www.accupass.com/event/2604300747111075847356",
       "source": "accupass",
       "description": "八德商圈每年最大盛事，八德資訊商圈封街市集滾燙登場，連續五週，好日市集特別攤位，觸碰人潮最佳選擇。活動除了有市集，還有眾多舞台表演，絕無冷場，活動免費參加，還有商圈消費抽好禮的活動喔。"
+    },
+    {
+      "id": "accu-2604300743108834743190",
+      "title": "椰林日不落松菸好日市集",
+      "category": "市集",
+      "startDate": "2026-10-10",
+      "endDate": "2026-10-11",
+      "location": "台灣台北市光復南路133號",
+      "address": "台灣台北市光復南路133號",
+      "district": "中正區",
+      "lat": 25.0324,
+      "lng": 121.5198,
+      "fee": "付費",
+      "url": "https://www.accupass.com/event/2604300743108834743190",
+      "source": "accupass",
+      "description": "在城市裡，延長你的夏天，以椰林大道為場域，打造一座不用出國的城市度假島。這不只是市集，而是一場讓人停留更久、消費更放鬆的生活體驗。餐飲、調酒、甜點、異國選品與風格品牌，搭配音樂與場域氛圍，創造「逛市集＝在旅行」的沉浸感。"
     },
     {
       "id": "accu-2607160338071803913088",
@@ -8369,38 +8353,6 @@
       "description": "《聖誕的形狀》不是單純的聖誕市集，而是一場關於「送禮與心意」的策展。我們把「喜歡」變成可以被帶走的樣子，讓每一位來的人，都能找到那一份剛剛好的禮物。"
     },
     {
-      "id": "accu-2608291223431822087974",
-      "title": "【小百岳系列】石門山 石牛山 雙石縱走快閃版",
-      "category": "快閃店",
-      "startDate": "2026-08-29",
-      "endDate": "2026-10-10",
-      "location": "台灣台北市中正區羅斯福路三段126之5號",
-      "address": "台灣台北市中正區羅斯福路三段126之5號",
-      "district": "中正區",
-      "lat": 25.0324,
-      "lng": 121.5198,
-      "fee": "付費",
-      "url": "https://www.accupass.com/event/2608291223431822087974",
-      "source": "accupass",
-      "description": "傳統的「雙石縱走 O 型」是一項考驗體能的經典山徑，將兩座山以全程山徑連走，是北部非常熱門的練【三力】體力、腳力和續航力路線，不需要兩端接駁，直接繞一圈回到起點。預估時間：7.5 ～ 9 小時。總里程：約 15～17 公里。\n\n河童老師的特色是慢走、慢遊、不忘過程中的景色。因此，在雙十佳節推出【快閃版】。\n如果只想輕鬆登頂、拍照賞景，或同行者體能狀況不一，建議共同前往開往兩山的登山口。\n\n總步行時"
-    },
-    {
-      "id": "accu-2610030940442065368118",
-      "title": "【2026藝日夜遊】開幕夜報名活動～ 藝日賞屋快閃活動",
-      "category": "快閃店",
-      "startDate": "2026-10-16",
-      "endDate": "2026-10-16",
-      "location": "台灣新北市231新店區和平里中山路137號",
-      "address": "台灣新北市231新店區和平里中山路137號",
-      "district": "中山區",
-      "lat": 25.0634,
-      "lng": 121.5326,
-      "fee": "付費",
-      "url": "https://www.accupass.com/event/2610030940442065368118",
-      "source": "accupass",
-      "description": "【藝日夜遊・遇見你...】一整年的相遇與交換，拼貼成新店藝術幫 2026 的藝術風景！這個秋天，邀請大家一起來看展、逛社宅，欣賞藝術進駐至今的精彩成果。10/16 開幕夜更由藝術家擔當「關主」，帶來夜騎 KTV、靜默耳機派對、百物語快閃、老派職人手機遊戲、藝日賞屋等限定活動。熱烈邀請大家前來闖關、與藝術家交流互動，集點還能兌換限量小禮物 🎁 一起玩遍藝日夜遊！🌿 其中四場限定活動需事先報名，詳"
-    },
-    {
       "id": "accu-2608201331121082372966",
       "title": "有你真好－半日快閃派對市集！闖關拿好康x體驗攤位x手作DIY",
       "category": "市集",
@@ -8465,6 +8417,38 @@
       "description": "【藝日夜遊・遇見你...】一整年的相遇與交換，拼貼成新店藝術幫 2026 的藝術風景！這個秋天，邀請大家一起來看展、逛社宅，欣賞藝術進駐至今的精彩成果。10/16 開幕夜更由藝術家擔當「關主」，帶來夜騎 KTV、靜默耳機派對、百物語快閃、老派職人手機遊戲、藝日賞屋等限定活動。熱烈邀請大家前來闖關、與藝術家交流互動，集點還能兌換限量小禮物 🎁 一起玩遍藝日夜遊！🌿 其中四場限定活動需事先報名，詳"
     },
     {
+      "id": "accu-2610030931021695500856",
+      "title": "【2026藝日夜遊】開幕夜報名活動～Whitemoon.Jez Fang｜耳機裡的派對 Silent Disco",
+      "category": "快閃店",
+      "startDate": "2026-10-16",
+      "endDate": "2026-10-16",
+      "location": "台灣新北市231新店區和平里中山路137號",
+      "address": "台灣新北市231新店區和平里中山路137號",
+      "district": "中山區",
+      "lat": 25.0634,
+      "lng": 121.5326,
+      "fee": "付費",
+      "url": "https://www.accupass.com/event/2610030931021695500856",
+      "source": "accupass",
+      "description": "【藝日夜遊・遇見你...】一整年的相遇與交換，拼貼成新店藝術幫 2026 的藝術風景！這個秋天，邀請大家一起來看展、逛社宅，欣賞藝術進駐至今的精彩成果。10/16 開幕夜更由藝術家擔當「關主」，帶來夜騎 KTV、靜默耳機派對、百物語快閃、老派職人手機遊戲、藝日賞屋等限定活動。熱烈邀請大家前來闖關、與藝術家交流互動，集點還能兌換限量小禮物 🎁 一起玩遍藝日夜遊！🌿 其中四場限定活動需事先報名，詳"
+    },
+    {
+      "id": "accu-2601300817484138510730",
+      "title": "【ACCUPASS 整合行銷方案諮詢頁】讓 ACCUPASS 陪你完善每一場活動！全新六大合作方案，全方位打造活動解方💡",
+      "category": "快閃店",
+      "startDate": "2025-12-31",
+      "endDate": "2027-01-30",
+      "location": "台灣台北市",
+      "address": "台灣台北市",
+      "district": "中正區",
+      "lat": 25.0324,
+      "lng": 121.5198,
+      "fee": "付費",
+      "url": "https://www.accupass.com/event/2601300817484138510730",
+      "source": "accupass",
+      "description": "🎯結合百萬會員數據與 10+ 年活動市場經驗，ACCUPASS 整合行銷團隊提供【活動策劃 × 市場推廣 × 受眾獲取 × 數據留存】一站式活動解方，並因應不同活動情境規劃「六大合作方案」👉上市預熱、試用品派樣、論壇／高峰會／博覽會、講座／研討會、快閃活動、會員日／家庭日。從企劃發想、落地執行到成效追蹤，我們全程提供專業支援，助您從容應對每個活動環節，有感提升活動品質與效益✨現在就點擊【立即報"
+    },
+    {
       "id": "accu-2609100246301574599097",
       "title": "2026新文化運動月｜文化自造夜－復古手作：風呂敷布包體驗",
       "category": "體驗活動",
@@ -8479,22 +8463,6 @@
       "url": "https://www.accupass.com/event/2609100246301574599097",
       "source": "accupass",
       "description": "走進大稻埕，從一塊布認識百年前的生活美學！\n\n2026新文化運動月「文化自造夜」推出【復古手作：風呂敷布包體驗】，呼應大稻埕永樂布市場的布業歷史，認識日治時期風呂敷在日常生活與購物中的實用文化。活動由草木竹石文化體驗工作坊帶領，運用來自永樂市場的布料，搭配可回收PE板提把，親手完成一只兼具實用與美感的風呂敷布包。\n\n從大稻埕布業、風呂敷文化到手作實作，把地方產業轉化為一件可以帶回家的時空記憶。"
-    },
-    {
-      "id": "accu-2609160311231198514420",
-      "title": "十月場-嵌入式烤箱體驗活動(週五場)",
-      "category": "體驗活動",
-      "startDate": "2026-10-16",
-      "endDate": "2026-10-16",
-      "location": "台灣台北市敦化南路一段138號 1樓",
-      "address": "台灣台北市敦化南路一段138號 1樓",
-      "district": "大安區",
-      "lat": 25.0264,
-      "lng": 121.5437,
-      "fee": "付費",
-      "url": "https://www.accupass.com/event/2609160311231198514420",
-      "source": "accupass",
-      "description": "伊萊克斯--嵌入式烤箱產品特色 & 功能展演廚藝示範--\n本次課程著重在於產品特色的展示與功能教學。針對想要了解伊萊克斯烤箱各項功能，或者已經購買但不太會使用伊萊克斯嵌入式烤箱的使用者，清楚介紹烤箱的使用方式。"
     },
     {
       "id": "accu-2609010710247645373900",
@@ -8657,20 +8625,36 @@
       "description": "《致清晨 To the Morning》是我碩士畢業、邁向人生新階段的首場沙龍音樂會。\n\n本場曲目對我別具意義：舒曼《詩人之戀》描繪愛與告別；歌劇《卡門》展現愛與忠誠的掙扎；杭德利的《真的會有清晨嗎》與《水鳥》則將視角引向遠方，留下對未來的提問。\n\n〈Will There Really Be a Morning?〉中朝聖者對清晨的追問，與〈Waterbird〉對遠方的嚮往，正映照出此刻的我——站在"
     },
     {
-      "id": "accu-2609211150041692182754",
-      "title": "【表演者\\u0026教育者必修系列】靈魂演唱學：找到屬於你的演唱靈魂！",
+      "id": "accu-2608131010153461742370",
+      "title": "捷運展演廳｜免費場勘體驗日：喝咖啡・看4K LED牆・拿自助報到機",
       "category": "演出",
-      "startDate": "2026-10-19",
-      "endDate": "2026-10-19",
-      "location": "台灣台北市中正區黎明里南陽街17巷3號2樓",
-      "address": "台灣台北市中正區黎明里南陽街17巷3號2樓",
-      "district": "中正區",
-      "lat": 25.0324,
-      "lng": 121.5198,
+      "startDate": "2026-08-17",
+      "endDate": "2026-12-31",
+      "location": "台灣台北市10491中山區中山北路二段48巷7號B1 ",
+      "address": "台灣台北市10491中山區中山北路二段48巷7號B1 ",
+      "district": "中山區",
+      "lat": 25.0634,
+      "lng": 121.5326,
       "fee": "付費",
-      "url": "https://www.accupass.com/event/2609211150041692182754",
+      "url": "https://www.accupass.com/event/2608131010153461742370",
       "source": "accupass",
-      "description": "為什麼有些歌手沒有一直飆高音、沒有塞滿轉音，卻一開口就讓你覺得：「這個人唱歌好有 Soul！」\n\n為什麼同一個歌手、同一首歌，在不同國家、不同評審耳中，可能得到完全不同的評價？而我們常說一個人唱歌「很有靈魂」，那種靈魂到底從哪裡來？\n\n這次邀請金曲獎提名多項的創作歌手 謝金融 CJ Mit，從自身橫跨古典音樂、北美音樂教育、歌唱競賽與流行音樂創作的經驗，帶大家重新思考「唱得好」這件事！"
+      "description": "捷運展演廳（Metro Gold Theater）由高德系統與台北捷運公司共同營運，鄰近雙連站、中山站，11米寬4K超高清LED牆與AI智慧導播系統、178席影院級座椅、演唱會等級音響燈光，商業發表、產品發表、企業活動、學術研討會皆宜。即日起開放免費場勘，到場即享咖啡一杯，至年底前完成免費場勘，可任選一場活動贈自助報到系統乙組，數量有限、額滿為止。"
+    },
+    {
+      "id": "accu-2608260156461498682079",
+      "title": "製作人親選優質演員養成班－2027第一期（演員表演心法）",
+      "category": "演出",
+      "startDate": "2027-01-02",
+      "endDate": "2027-01-23",
+      "location": "台灣台北市大安區忠孝東路四段322號三樓之二",
+      "address": "台灣台北市大安區忠孝東路四段322號三樓之二",
+      "district": "大安區",
+      "lat": 25.0264,
+      "lng": 121.5437,
+      "fee": "付費",
+      "url": "https://www.accupass.com/event/2608260156461498682079",
+      "source": "accupass",
+      "description": "有時候，我們不是不會演，\n而是還不夠認識自己。\n\n由製作人和片場表演指導親自帶訓。\n優秀學員，\n將優先進入影視製作演員名單。"
     },
     {
       "id": "accu-2609042005542132980210",
@@ -8769,6 +8753,22 @@
       "description": "2D動畫製作從入門到Pro級，學習故事角色表演方式、背景的動態呈現、以及完成動畫作品，適合各領域對動畫有興趣的人參加，無論您是平面設計師、概念藝術家、人物插畫師、廣告動畫師、Webtoon漫畫家、動漫社學生....。 一起做動畫，Hi翻二次元的世界吧!"
     },
     {
+      "id": "accu-2608300643171602706185",
+      "title": "CARDPASS TAIWAN 2026｜台北世貿大型卡牌展｜李多慧・派翠克・珍稀神卡・巨大陀螺",
+      "category": "動漫電玩",
+      "startDate": "2026-10-17",
+      "endDate": "2026-10-18",
+      "location": "台灣台北市信義區信義路五段5號（1樓C區）",
+      "address": "台灣台北市信義區信義路五段5號（1樓C區）",
+      "district": "信義區",
+      "lat": 25.0335,
+      "lng": 121.5678,
+      "fee": "付費",
+      "url": "https://www.accupass.com/event/2608300643171602706185",
+      "source": "accupass",
+      "description": "🔥 10/17 派翠克、10/18 李多慧，台北世貿兩日限定！  \nCARDPASS TAIWAN 2026 集結 170+ 卡牌、收藏、動漫品牌與攤位，現場一次看到寶可夢、運動球員卡、TCG、珍稀收藏、COSER 與巨大陀螺活動。  \n💎 Kobe Bryant 珍稀 Logoman、大谷翔平親簽球員卡等重量級收藏現場展出⭐ 10/17 派翠克登場\n⭐ 10/18 李多慧 × 1 of 1 "
+    },
+    {
       "id": "accu-2609240455138762814240",
       "title": "🌟 2027 冬令營｜動畫創作營｜創作第一支有故事的動畫作品！",
       "category": "動漫電玩",
@@ -8849,20 +8849,20 @@
       "description": "雙11不是11/11當天才開始，而是前24天就決定勝負。\n這場直播將從蝦皮實戰出發，帶你看懂雙11活動怎麼報、優惠怎麼設、主攻商品怎麼選，以及如何運用聊聊廣播把流量變成訂單。從準備、預熱、衝刺到爆發期，一次掌握雙11前中後不同階段的執行重點。"
     },
     {
-      "id": "accu-2609271228491506300823",
-      "title": "[免費] 60分鐘先修課｜目標管理 PDCA：學會復盤與疊代，讓一對一顧問更有成效",
+      "id": "accu-2609271227301745012118",
+      "title": "[免費]60分鐘先修課|決勝日貨 代購批貨代理：一次精通日本代購",
       "category": "動漫電玩",
-      "startDate": "2026-10-25",
-      "endDate": "2026-10-25",
+      "startDate": "2026-10-18",
+      "endDate": "2026-10-18",
       "location": "台灣台北市",
       "address": "台灣台北市",
       "district": "中正區",
       "lat": 25.0324,
       "lng": 121.5198,
       "fee": "付費",
-      "url": "https://www.accupass.com/event/2609271228491506300823",
+      "url": "https://www.accupass.com/event/2609271227301745012118",
       "source": "accupass",
-      "description": "很多人來做一對一顧問，最大的浪費不是錢，而是：你帶著「一堆想要」來，但沒有一套能把想法落地的管理方法。\n這堂先修課的目的，就是先把「顧問前必備的共同語言」建立好『 PDCA＋復盤與疊代 』讓你在顧問時能更快對焦、更快做出下一步行動。"
+      "description": "很多人看到日本商品在台灣很受歡迎，也開始思考：「我是不是也可以做日本代購？」\n\n但真正開始後才發現，不是買得到商品就能賺到錢。\n這堂免費先修課將帶你快速了解日本代購市場的運作方式，從市場現況、選品思維到新手常見錯誤，一次看懂如何開始做日貨生意。\n\n如果你對日本代購、批貨或日貨創業有興趣，這堂課會是最好的起點。"
     },
     {
       "id": "accu-2609271226134353538020",
@@ -8881,36 +8881,20 @@
       "description": "如果對於從事賣日貨、日本代購批貨有興趣，這堂先修課是用最白話、最實戰的方式，先帶你看懂日本代購市場現況與機會，再一步步釐清入行前必備準備：客群定位、商品方向、流程與成本觀念，並教你用預購降低囤貨風險。先判斷、再開始，讓你少走彎路、起步更穩。"
     },
     {
-      "id": "accu-2609271227301745012118",
-      "title": "[免費]60分鐘先修課|決勝日貨 代購批貨代理：一次精通日本代購",
+      "id": "accu-2609271228491506300823",
+      "title": "[免費] 60分鐘先修課｜目標管理 PDCA：學會復盤與疊代，讓一對一顧問更有成效",
       "category": "動漫電玩",
-      "startDate": "2026-10-18",
-      "endDate": "2026-10-18",
+      "startDate": "2026-10-25",
+      "endDate": "2026-10-25",
       "location": "台灣台北市",
       "address": "台灣台北市",
       "district": "中正區",
       "lat": 25.0324,
       "lng": 121.5198,
       "fee": "付費",
-      "url": "https://www.accupass.com/event/2609271227301745012118",
+      "url": "https://www.accupass.com/event/2609271228491506300823",
       "source": "accupass",
-      "description": "很多人看到日本商品在台灣很受歡迎，也開始思考：「我是不是也可以做日本代購？」\n\n但真正開始後才發現，不是買得到商品就能賺到錢。\n這堂免費先修課將帶你快速了解日本代購市場的運作方式，從市場現況、選品思維到新手常見錯誤，一次看懂如何開始做日貨生意。\n\n如果你對日本代購、批貨或日貨創業有興趣，這堂課會是最好的起點。"
-    },
-    {
-      "id": "accu-2609040752551312532136",
-      "title": "【下班後桌遊團｜10月場】陣營狂歡月！，龍山寺每週五晚上19:00｜桌遊骰子貓 DiceCat",
-      "category": "動漫電玩",
-      "startDate": "2026-10-02",
-      "endDate": "2026-10-30",
-      "location": "台灣台北市萬華區萬大路120號",
-      "address": "台灣台北市萬華區萬大路120號",
-      "district": "萬華區",
-      "lat": 25.0344,
-      "lng": 121.4997,
-      "fee": "付費",
-      "url": "https://www.accupass.com/event/2609040752551312532136",
-      "source": "accupass",
-      "description": "週五下班、週六週末晚上想找台北桌遊揪團聚會？由辦過超過 40 場活動、擁有超過 100 款熱門遊戲的桌遊骰子貓主辦，在公寓私宅獨立空間打造高質感的【週末桌遊派對夜】！活動精選《風聲》、《狼人殺》等經典心機派對桌遊，搭配專業團主手把手親切教學，新手友善絕不尷尬，享現場簡單餐食茶水，限額 4-12 人小班制，是您擴展實體社交圈、下班放鬆與認識新朋友的最佳去處！"
+      "description": "很多人來做一對一顧問，最大的浪費不是錢，而是：你帶著「一堆想要」來，但沒有一套能把想法落地的管理方法。\n這堂先修課的目的，就是先把「顧問前必備的共同語言」建立好『 PDCA＋復盤與疊代 』讓你在顧問時能更快對焦、更快做出下一步行動。"
     },
     {
       "id": "accu-2609070607385826250080",
@@ -8925,6 +8909,22 @@
       "lng": 121.4997,
       "fee": "付費",
       "url": "https://www.accupass.com/event/2609070607385826250080",
+      "source": "accupass",
+      "description": "週五下班、週六週末晚上想找台北桌遊揪團聚會？由辦過超過 40 場活動、擁有超過 100 款熱門遊戲的桌遊骰子貓主辦，在公寓私宅獨立空間打造高質感的【週末桌遊派對夜】！活動精選《風聲》、《狼人殺》等經典心機派對桌遊，搭配專業團主手把手親切教學，新手友善絕不尷尬，享現場簡單餐食茶水，限額 4-12 人小班制，是您擴展實體社交圈、下班放鬆與認識新朋友的最佳去處！"
+    },
+    {
+      "id": "accu-2609040752551312532136",
+      "title": "【下班後桌遊團｜10月場】陣營狂歡月！，龍山寺每週五晚上19:00｜桌遊骰子貓 DiceCat",
+      "category": "動漫電玩",
+      "startDate": "2026-10-02",
+      "endDate": "2026-10-30",
+      "location": "台灣台北市萬華區萬大路120號",
+      "address": "台灣台北市萬華區萬大路120號",
+      "district": "萬華區",
+      "lat": 25.0344,
+      "lng": 121.4997,
+      "fee": "付費",
+      "url": "https://www.accupass.com/event/2609040752551312532136",
       "source": "accupass",
       "description": "週五下班、週六週末晚上想找台北桌遊揪團聚會？由辦過超過 40 場活動、擁有超過 100 款熱門遊戲的桌遊骰子貓主辦，在公寓私宅獨立空間打造高質感的【週末桌遊派對夜】！活動精選《風聲》、《狼人殺》等經典心機派對桌遊，搭配專業團主手把手親切教學，新手友善絕不尷尬，享現場簡單餐食茶水，限額 4-12 人小班制，是您擴展實體社交圈、下班放鬆與認識新朋友的最佳去處！"
     },
@@ -9041,6 +9041,22 @@
       "description": "想找好玩又不尷尬的台北聯誼、單身交友活動、萬聖節活動？10/31 推出限定「萬聖節美女聯誼派對」，女生採照片審核制，打造高顏值交友體驗。現場結合紅酒聯誼、破冰遊戲、爆笑繪畫互動，以及韓國 Z 世代超火的 3對3快速換桌，每10分鐘認識不同對象，讓參加者都有充分互動與自我介紹的機會，比傳統快速約會更自然、不尷尬！\n\n適合想脫單、認識異性、拓展交友圈的單身男女，一起用最有趣的方式度過萬聖節！\n\n台北聯"
     },
     {
+      "id": "accu-2610041403561053834091",
+      "title": "1018北部LARP活動【五軍會戰4】",
+      "category": "動漫電玩",
+      "startDate": "2026-10-18",
+      "endDate": "2026-10-18",
+      "location": "台灣台北市大佳河濱公園",
+      "address": "台灣台北市大佳河濱公園",
+      "district": "中正區",
+      "lat": 25.0324,
+      "lng": 121.5198,
+      "fee": "付費",
+      "url": "https://www.accupass.com/event/2610041403561053834091",
+      "source": "accupass",
+      "description": "第四屆五軍會戰\n\n16大軍團集結｜全台古戰場年度大會戰\n\n有些戰爭存在於歷史課本裡。\n\n有些戰爭，只存在於電影與遊戲之中。\n\n但在這一天，你可以真正站進隊伍之中。\n\n身旁的戰友舉起盾牌，弓箭手開始整備，長槍向前放平；遠方不同旗幟的軍團逐漸完成列陣。\n\n指揮官發出號令——\n\n戰線開始前進。\n\n這，就是一年一度的「五軍會戰」。"
+    },
+    {
       "id": "accu-2609131230571104630924",
       "title": "《潮西門・玩古亭｜青春職旅祭》",
       "category": "動漫電玩",
@@ -9057,22 +9073,6 @@
       "description": "以「從興趣探索職涯、從創意走向市場」為核心，鎖定高中職、大專校院學生及青年，結合Cosplay、影音自媒體、影視IP、遊戲及文創等青年關注領域，透過「體驗、實作、論壇、創業」四大培力方式，引導青年由興趣探索、職涯認識、技能培力，進一步建立產品開發、市場及創業思維。計畫並串聯西門、古亭商圈及產業職人，將真實商圈轉化為青年職涯探索與創業實驗場域，縮短青年與產業、市場之間的距離。"
     },
     {
-      "id": "accu-2609110817352118810821",
-      "title": "新竹不只吃米粉！三款實境遊戲，帶你走進客庄、舊城與山林｜不小星球 × 留聲貓遊戲工作室",
-      "category": "動漫電玩",
-      "startDate": "2026-12-04",
-      "endDate": "2026-12-04",
-      "location": "Taipei City",
-      "address": "",
-      "district": "中正區",
-      "lat": 25.0324,
-      "lng": 121.5198,
-      "fee": "付費",
-      "url": "https://www.accupass.com/event/2609110817352118810821",
-      "source": "accupass",
-      "description": "新竹除了米粉，還藏著一張可以親自走進去的遊戲地圖。\n\n不小王子邀請留聲貓遊戲工作室，從三款實境遊戲出發，帶你走進南埔客庄、新竹舊城與馬胎古道。一起聊地方故事如何變成謎題、冒險與收集成就，也聊那些為了設計一場遊戲而反覆爬山、找路、確認 GPS 的幕後故事。\n\n12/4（五）21:00–22:00，不小星球 YouTube 直播。"
-    },
-    {
       "id": "accu-2609210526433535222070",
       "title": "1028 (三)|餓鬼夜行| 社交x戶外解謎x遊戲 |萬聖節特別場",
       "category": "動漫電玩",
@@ -9087,6 +9087,22 @@
       "url": "https://www.accupass.com/event/2609210526433535222070",
       "source": "accupass",
       "description": "「吃了人間的飯，就得走完人間的路。子時已到，餓鬼夜行。」\n這是場結合「夜市覓食」、「街頭逃亡」與「破冰社交」的戶外社交遊戲。\n在遊戲中，你將褪去上班族的疲憊外衣，化身重返人間的「餓鬼」。為了爭奪「再世重燃」的機會，在夜市中尋找專屬的供品、解開引路陣法，並在步步進逼的道士追捕下，逃亡至最終的安全庇護所。\n活動取向 \n遊戲性： ★ ★ ★ ★ ☆，4/5。\n社交性： ★ ★ ✬ ☆ ☆，2.5/5。 "
+    },
+    {
+      "id": "accu-2609110817352118810821",
+      "title": "新竹不只吃米粉！三款實境遊戲，帶你走進客庄、舊城與山林｜不小星球 × 留聲貓遊戲工作室",
+      "category": "動漫電玩",
+      "startDate": "2026-12-04",
+      "endDate": "2026-12-04",
+      "location": "Taipei City",
+      "address": "",
+      "district": "中正區",
+      "lat": 25.0324,
+      "lng": 121.5198,
+      "fee": "付費",
+      "url": "https://www.accupass.com/event/2609110817352118810821",
+      "source": "accupass",
+      "description": "新竹除了米粉，還藏著一張可以親自走進去的遊戲地圖。\n\n不小王子邀請留聲貓遊戲工作室，從三款實境遊戲出發，帶你走進南埔客庄、新竹舊城與馬胎古道。一起聊地方故事如何變成謎題、冒險與收集成就，也聊那些為了設計一場遊戲而反覆爬山、找路、確認 GPS 的幕後故事。\n\n12/4（五）21:00–22:00，不小星球 YouTube 直播。"
     },
     {
       "id": "accu-2609210345161514071583",
@@ -9209,8 +9225,8 @@
       "location": "台灣台北市臺北市大安區辛亥路二段 170號",
       "address": "台灣台北市臺北市大安區辛亥路二段 170號",
       "district": "大安區",
-      "lat": 25.0203948,
-      "lng": 121.5433353,
+      "lat": 25.0264,
+      "lng": 121.5437,
       "fee": "付費",
       "url": "https://www.accupass.com/event/2609100229483887942330",
       "source": "accupass",
@@ -9231,6 +9247,22 @@
       "url": "https://www.accupass.com/event/2609240249547755551970",
       "source": "accupass",
       "description": "當燈火點亮歐洲古老街道，聖誕市集也揭開冬日序幕。從德國、奧地利到捷克與法國，一起認識各地獨具特色的節慶風景與聖誕文化。"
+    },
+    {
+      "id": "accu-2610020959271945427641",
+      "title": "黑松世界・溫馨相伴季",
+      "category": "節慶",
+      "startDate": "2026-10-01",
+      "endDate": "2026-12-31",
+      "location": "台灣台北市市復興南路一段39號2樓",
+      "address": "台灣台北市市復興南路一段39號2樓",
+      "district": "中山區",
+      "lat": 25.0634,
+      "lng": 121.5326,
+      "fee": "付費",
+      "url": "https://www.accupass.com/event/2610020959271945427641",
+      "source": "accupass",
+      "description": "🍂 黑松世界・溫馨相伴季 溫暖登場！\n黑松世界邀請大小朋友一起走進繪本與互動遊戲交織的溫馨旅程。\n透過故事導讀、趣味遊戲與創意手作，陪伴孩子探索生活、認識自然，也讓親子在閱讀與創作中共享美好時光。從認識海洋生物、感受親子陪伴，到迎接充滿溫度的聖誕節，讓秋冬季節的每一次相聚，都成為值得收藏的溫暖回憶。👨‍👩‍👧‍👦✨"
     },
     {
       "id": "accu-2608250950213124761340",
@@ -9297,6 +9329,38 @@
       "description": "儀婷老師是薩提爾模式的帶領者也是實踐者，從原生家庭到自組家庭，都能運用薩提爾模式得宜。透過體驗，儀婷老師帶領學員將渴望中的資源導入，以正向與一致性投入家庭關係與親子教養，達到「愛的賽局」均衡。"
     },
     {
+      "id": "accu-2608210059271841689962",
+      "title": "【光影復現—修復與保存系列工作坊】開口就入戲｜聲音工作坊",
+      "category": "體驗活動",
+      "startDate": "2026-10-31",
+      "endDate": "2026-10-31",
+      "location": "台灣新北市新莊區文藝路2號",
+      "address": "台灣新北市新莊區文藝路2號",
+      "district": "中正區",
+      "lat": 25.0324,
+      "lng": 121.5198,
+      "fee": "付費",
+      "url": "https://www.accupass.com/event/2608210059271841689962",
+      "source": "accupass",
+      "description": "你喜歡用聲音表達自己，卻不知道如何讓聲音更有特色、增加情緒嗎？\n想接觸配音，卻對錄音、角色詮釋與變聲技巧感到陌生？\n這堂 3 小時的配音實戰課，將帶你從聲音基礎開始，循序認識配音工作的流程與技巧。除了老師的專業講解，更安排實際演練與現場檢討，讓你不只是「聽懂」，而是真正開口練習、找到自己的聲音表演方式。"
+    },
+    {
+      "id": "accu-2609170713306130508410",
+      "title": "【親子工作坊】11月活動",
+      "category": "體驗活動",
+      "startDate": "2026-11-01",
+      "endDate": "2026-11-22",
+      "location": "台灣台北市臺北市大安區羅斯福路四段119巷66弄12號",
+      "address": "台灣台北市臺北市大安區羅斯福路四段119巷66弄12號",
+      "district": "大安區",
+      "lat": 25.0264,
+      "lng": 121.5437,
+      "fee": "付費",
+      "url": "https://www.accupass.com/event/2609170713306130508410",
+      "source": "accupass",
+      "description": "秋冬親子工作坊，11月份將邀請郁琳、寶寶、好好吃頓飯團隊，邀請大小朋友一起走進煥民新村，在故事、遊戲與創作中，展開一場充滿想像力的眷村小旅行！"
+    },
+    {
       "id": "accu-2608210629139218237380",
       "title": "【親子工作坊】10月活動",
       "category": "體驗活動",
@@ -9311,22 +9375,6 @@
       "url": "https://www.accupass.com/event/2608210629139218237380",
       "source": "accupass",
       "description": "秋天親子工作坊，10月份將邀請寶寶及好好吃頓飯團隊，邀請大小朋友一起走進煥民新村，在故事、遊戲與創作中，展開一場充滿想像力的眷村小旅行！"
-    },
-    {
-      "id": "accu-2609150414481567692976",
-      "title": "2026 台北偶戲館｜藝術家駐館計畫系列工作坊",
-      "category": "體驗活動",
-      "startDate": "2026-10-03",
-      "endDate": "2026-10-09",
-      "location": "台灣台北市臺北市松山區復盛里市民大道五段99號3樓",
-      "address": "台灣台北市臺北市松山區復盛里市民大道五段99號3樓",
-      "district": "松山區",
-      "lat": 25.0504,
-      "lng": 121.5773,
-      "fee": "付費",
-      "url": "https://www.accupass.com/event/2609150414481567692976",
-      "source": "accupass",
-      "description": "台北偶戲館藝術家駐館計畫鼓勵不同背景的藝術家進駐創作，透過本館多元空間特性，激發跨領域合作與技藝交流，也期待能與在地環境、一般民眾及社會有所互動與連結，讓藝術不再遙不可及，而是所有人日常生活中如呼吸般自然的存在。\n本系列工作坊將由2026台北偶戲館駐館藝術家：陳佳豪、魏伶娟、Esteban 所帶領，3位將以本次駐館創作為核心，各自辦理1場工作坊與大家分享創作和技藝！"
     },
     {
       "id": "accu-2609220225134783594260",
@@ -9345,6 +9393,22 @@
       "description": "本工作坊會邀請真人模特，打造一個開放且親近藝術的繪畫空間。 無論是否具備寫生基礎，都可以透過觀察人體/肖像的姿態與明暗變化，漸漸進入創作的節奏。 活動不設媒材限制，可以依照自己的方式描繪， 在觀看與轉譯之間建立個人的觀察方法與表現方式。 無論是初次接觸真人模特寫生，或是已有經驗希望持續練習， 都歡迎加入。讓我們一起專注徜徉在寫生的世界，享受創作本身的過程。 *本活動將長期於每週固定時段開設"
     },
     {
+      "id": "accu-2609150414481567692976",
+      "title": "2026 台北偶戲館｜藝術家駐館計畫系列工作坊",
+      "category": "體驗活動",
+      "startDate": "2026-10-03",
+      "endDate": "2026-10-09",
+      "location": "台灣台北市臺北市松山區復盛里市民大道五段99號3樓",
+      "address": "台灣台北市臺北市松山區復盛里市民大道五段99號3樓",
+      "district": "松山區",
+      "lat": 25.0504,
+      "lng": 121.5773,
+      "fee": "付費",
+      "url": "https://www.accupass.com/event/2609150414481567692976",
+      "source": "accupass",
+      "description": "台北偶戲館藝術家駐館計畫鼓勵不同背景的藝術家進駐創作，透過本館多元空間特性，激發跨領域合作與技藝交流，也期待能與在地環境、一般民眾及社會有所互動與連結，讓藝術不再遙不可及，而是所有人日常生活中如呼吸般自然的存在。\n本系列工作坊將由2026台北偶戲館駐館藝術家：陳佳豪、魏伶娟、Esteban 所帶領，3位將以本次駐館創作為核心，各自辦理1場工作坊與大家分享創作和技藝！"
+    },
+    {
       "id": "accu-2609071524142968098070",
       "title": "聲音裡的家山｜聲音療癒共創工作坊",
       "category": "體驗活動",
@@ -9359,45 +9423,13 @@
       "url": "https://www.accupass.com/event/2609071524142968098070",
       "source": "accupass",
       "description": "閉上眼睛，你聽見的蟾蜍山是什麼聲音？\n\n這不只是一場聲音療癒，而是一趟用耳朵重新認識地方的旅程。\n\n我們將從蟾蜍山出發，慢慢行走、採集聚落裡的聲音，也透過頌缽與現場演奏，讓身體在聲音裡安靜下來。最後，把一路聽見的聲音、感受與記憶，轉化成一張屬於大家的「蟾蜍山聲音地圖」。"
-    },
-    {
-      "id": "accu-2610021832511206987037",
-      "title": "親子記憶力工作坊",
-      "category": "體驗活動",
-      "startDate": "2026-10-09",
-      "endDate": "2026-10-09",
-      "location": "台灣台北市中山區南京東路二段160號6樓",
-      "address": "台灣台北市中山區南京東路二段160號6樓",
-      "district": "中山區",
-      "lat": 25.0634,
-      "lng": 121.5326,
-      "fee": "付費",
-      "url": "https://www.accupass.com/event/2610021832511206987037",
-      "source": "accupass",
-      "description": "孩子不是不認真，有時候，只是還沒找到適合自己的學習方法\n\n很多家長都看過這樣的畫面。\n\n孩子坐在書桌前很久，課本翻了一遍又一遍，單字背了又忘，考試前還是在死背。\n你知道他不是不用功。\n\n但你也會忍不住想：到底是哪裡出了問題？\n\n也許，問題從來不只是「記性好不好」。\n而是孩子一直在用一種，不一定適合自己的方式學習。\n\n這兩個小時，希望你留兩個小時給自己，先從重新理解孩子開始。\n\n靜下來重新看看：我的"
-    },
-    {
-      "id": "accu-2608130435391062155140",
-      "title": "人生劇場‧牌卡自我探索工作坊【台北晚上場】(課程中使用POY教練工具)",
-      "category": "體驗活動",
-      "startDate": "2026-10-16",
-      "endDate": "2026-10-16",
-      "location": "台灣台北市中正區南陽街38巷2號2樓",
-      "address": "台灣台北市中正區南陽街38巷2號2樓",
-      "district": "中正區",
-      "lat": 25.0324,
-      "lng": 121.5198,
-      "fee": "付費",
-      "url": "https://www.accupass.com/event/2608130435391062155140",
-      "source": "accupass",
-      "description": "※以色列國際圖像溝通、藝術療癒牌卡\n※透過精心設計的課程架構，帶你做更多的自我探索與覺察\n※講師受過國內外專業訓練，已舉辦數百場講座及工作坊，具有300多位個案諮詢晤談經驗\n※若現在正遇到人生的挑戰、人際關係遇到困難、或單純只是想體驗看看不同的課程\n這都會是一堂令你驚喜的課程"
     }
   ],
-  "total": 587,
+  "total": 589,
   "sources": {
     "culture": 499,
-    "gnn": 3,
-    "accupass": 85
+    "gnn": 2,
+    "accupass": 88
   },
-  "collectedAt": "2026-10-05T23:50:05.301Z"
+  "collectedAt": "2026-10-06T22:25:33.175Z"
 }
